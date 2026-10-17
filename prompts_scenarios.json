@@ -1,0 +1,402 @@
+{
+  "version": "3.2",
+  "description": "Scenario plays. video-action-prompt standard. Location as action constraint only.",
+  "plays": [
+    {
+      "id": "office_seduction",
+      "name": "Office Seduction",
+      "description": "After-hours office desk; thrusts while desk props stay put.",
+      "patterns": [
+        {
+          "id": "office",
+          "summary_action": "After-hours office: she on or against a desk; {male} thrusts full strokes; papers shift; same office.",
+          "shot1": "An office at night. A woman is bent over or sitting on a desk. {male} positions at her hips and pushes his erect penis in until seated. Monitor glow or desk lamp only.",
+          "shot2": "He drives full nearly-out to seated strokes. Papers shift under her hands. Desk edge digs into her. Fluid on her thigh. Door stays closed.",
+          "dialogue_shot1": "誰か来たら…",
+          "dialogue_shot2": "んっ…だめなのに…",
+          "overall_soundscape": "Quiet office hum, wet thrusts, desk creak, suppressed moans.",
+          "camera_lock": "Desk and both bodies; office cues stay in frame.",
+          "negative": "bedroom, outdoor, cut, open door with crowd"
+        }
+      ]
+    },
+    {
+      "id": "teacher_student",
+      "name": "Teacher Student",
+      "description": "Empty classroom; adult only; desk penetration.",
+      "patterns": [
+        {
+          "id": "teacher",
+          "summary_action": "Empty classroom: adult woman on a desk; {male} thrusts; chalkboard behind; door closed.",
+          "shot1": "Empty classroom. An adult woman sits or leans on a desk. {male} stands between her legs and enters until seated. Chalkboard behind.",
+          "shot2": "He thrusts full strokes. Desk scrapes slightly. She grips the desk edge. Fluid at the desk edge. Door remains closed.",
+          "dialogue_shot1": "先生…だめ…",
+          "dialogue_shot2": "教室で…っ",
+          "overall_soundscape": "Quiet classroom, wet thrusts, desk scrape, suppressed voice.",
+          "camera_lock": "Classroom desks and the pair; chalkboard cue.",
+          "negative": "other people present, underage appearance, cut"
+        }
+      ]
+    },
+    {
+      "id": "doctor_patient",
+      "name": "Doctor Patient",
+      "description": "Exam table; legs open; clinical props; full strokes on the table.",
+      "patterns": [
+        {
+          "id": "doctor",
+          "summary_action": "Exam room: she on the exam table; {male} between her legs drives full strokes; paper cover crinkles.",
+          "shot1": "A woman lies on an exam table, legs open or in rests. {male} stands between her legs and pushes in until seated. Tray or curtain in frame.",
+          "shot2": "He thrusts. Paper cover crinkles under her. She grips the table edges on deep seats. Fluid on the paper. Same exam room.",
+          "dialogue_shot1": "先生…こんなの…",
+          "dialogue_shot2": "んっ…あっ…",
+          "overall_soundscape": "Quiet clinic, paper crinkle, wet thrusts, moans.",
+          "camera_lock": "Exam table and pair in frame.",
+          "negative": "home bedroom, cut"
+        }
+      ]
+    },
+    {
+      "id": "public_restroom",
+      "name": "Public Restroom",
+      "description": "Stall or sink; braced; suppressed voice; distant footsteps.",
+      "patterns": [
+        {
+          "id": "restroom",
+          "summary_action": "Restroom stall or sink: she braced on wall or basin; {male} thrusts from behind; she tries to stay quiet; distant footsteps.",
+          "shot1": "Inside a restroom stall or at a sink. A woman braces on the wall or basin. {male} behind her pushes in until seated. Tile and door visible.",
+          "shot2": "Harder thrusts. She bites back sound. Ass ripples on impact. Footsteps pass outside. They do not stop. Fluid on her thigh.",
+          "dialogue_shot1": "声…出ちゃう…",
+          "dialogue_shot2": "んっ…誰か…",
+          "overall_soundscape": "Tile echo, wet thrusts, suppressed moans, distant restroom ambience.",
+          "camera_lock": "Stall or sink and pair; door edge optional.",
+          "negative": "open public floor with crowd watching, cut"
+        }
+      ]
+    },
+    {
+      "id": "train_molestation",
+      "name": "Train Groping",
+      "description": "Standing crowded train; hidden entry from behind; neutral faces.",
+      "patterns": [
+        {
+          "id": "train",
+          "summary_action": "Crowded train standing: {male} behind her works under clothes then pushes in; both stay standing; faces try to stay neutral.",
+          "shot1": "Standing on a crowded train. {male} behind a woman works a hand under her clothes, then sets the tip of his penis at her entrance under fabric.",
+          "shot2": "He pushes in while both stay standing. She grips a strap or rail. Train motion rocks them on each stroke. Faces try to stay neutral. Limited wet sound under clothes.",
+          "dialogue_shot1": "",
+          "dialogue_shot2": "やめて…人いる…っ",
+          "overall_soundscape": "Train rumble, fabric, suppressed wet motion, her held breath.",
+          "camera_lock": "Torso and hips of the pair; strap or rail; crowd as soft background.",
+          "negative": "empty private car, full undress, cut"
+        }
+      ]
+    },
+    {
+      "id": "school_classroom",
+      "name": "School Classroom",
+      "description": "Empty classroom desk sex; adults only.",
+      "patterns": [
+        {
+          "id": "classroom",
+          "summary_action": "Empty classroom: she on a student desk; {male} thrusts full strokes; chalkboard behind.",
+          "shot1": "Empty classroom after hours. A woman sits on a student desk. {male} between her legs enters until seated. Chalkboard behind.",
+          "shot2": "He thrusts with full nearly-out to seated strokes. Desk legs scrape on the floor. She holds his shoulders or the desk edge. Fluid gathers at the desk edge under her. Chalkboard stays behind them. Door remains closed.",
+          "dialogue_shot1": "教室でなんて…",
+          "dialogue_shot2": "んっ…あっ…",
+          "overall_soundscape": "Quiet school, desk scrape, wet thrusts, moans.",
+          "camera_lock": "Desk, chalkboard cue, pair.",
+          "negative": "students present, underage, cut"
+        }
+      ]
+    },
+    {
+      "id": "love_hotel",
+      "name": "Love Hotel",
+      "description": "Love hotel bed; unrestricted pace; sheets bunch.",
+      "patterns": [
+        {
+          "id": "love_hotel",
+          "summary_action": "Love hotel bed: {male} thrusts hard; sheets bunch; her legs wrap or brace; mirror optional at edge.",
+          "shot1": "Love hotel bedroom. A woman on the bed. {male} on top or behind pushes in until seated. Soft room light.",
+          "shot2": "Pace increases to hard full strokes. Sheets bunch under them. Her legs wrap his waist or brace. Fluid on the sheets. Mirror may catch motion at frame edge.",
+          "dialogue_shot1": "今夜はずっと…",
+          "dialogue_shot2": "んぁっ…！",
+          "overall_soundscape": "Wet thrusts, bed creak, loud moans allowed.",
+          "camera_lock": "Bed and pair; room stays love-hotel interior.",
+          "negative": "outdoor, cut"
+        }
+      ]
+    },
+    {
+      "id": "bath_sex",
+      "name": "Bath Sex",
+      "description": "Bathtub; thrusts splash water over the edge.",
+      "patterns": [
+        {
+          "id": "bath",
+          "summary_action": "Bathtub: she in his lap or bent forward; each thrust splashes water over the edge; wet skin.",
+          "shot1": "In a bathtub with water to mid torso. A woman sits in {male}'s lap or bends forward. Penis fully inside. Water around them.",
+          "shot2": "He thrusts. Water splashes over the tub edge on stronger seats. Wet skin slides under hands. She holds the tub rim. Fluid mixes with bath water.",
+          "dialogue_shot1": "お湯が…こぼれ…あっ…",
+          "dialogue_shot2": "",
+          "overall_soundscape": "Water splash, wet skin, moans.",
+          "camera_lock": "Tub, waterline, and pair in frame.",
+          "negative": "dry bedroom, cut"
+        }
+      ]
+    },
+    {
+      "id": "shower_sex",
+      "name": "Shower Sex",
+      "description": "Standing under running water; braced on wall; feet careful.",
+      "patterns": [
+        {
+          "id": "shower",
+          "summary_action": "Shower: she braced on the wet wall under running water; {male} thrusts from behind; water streams between them.",
+          "shot1": "Shower running. A woman braces on the wet wall. {male} behind her pushes in until seated. Water streams over both backs.",
+          "shot2": "He thrusts. Water runs down her back and between their bodies. Feet careful on wet floor. Ass ripples on impact. Steam.",
+          "dialogue_shot1": "",
+          "dialogue_shot2": "んっ…滑る…あっ…",
+          "overall_soundscape": "Shower spray, wet thrusts, moans.",
+          "camera_lock": "Shower wall, water, pair standing.",
+          "negative": "dry room, cut"
+        }
+      ]
+    },
+    {
+      "id": "car_sex",
+      "name": "Car Sex",
+      "description": "Parked car cabin; limited space; condensation on windows.",
+      "patterns": [
+        {
+          "id": "car",
+          "summary_action": "Parked car: limited cabin; she straddles or is bent in the seat; {male} thrusts; condensation on windows.",
+          "shot1": "Inside a parked car. A woman straddles {male} in the seat or is bent across the seat. Penis fully inside. Seat and window visible.",
+          "shot2": "Awkward hard thrusts limited by the cabin. On full seat her head may bump the roof then she adjusts. Condensation builds on windows. Fluid on the seat.",
+          "dialogue_shot1": "車内で…んっ…",
+          "dialogue_shot2": "狭い…あっ…",
+          "overall_soundscape": "Seat creak, wet thrusts, muffled moans, quiet outside.",
+          "camera_lock": "Car interior locked; pair and seats in frame.",
+          "negative": "outdoor full standing, cut"
+        }
+      ]
+    },
+    {
+      "id": "beach_sex",
+      "name": "Beach Sex",
+      "description": "On a towel; sand sticks to skin; surf distant.",
+      "patterns": [
+        {
+          "id": "beach",
+          "summary_action": "Beach towel: {male} thrusts; sand sticks to skin; they stay on the towel; surf distant.",
+          "shot1": "On a beach towel. A woman on her back or all fours. {male} pushes in until seated. Sand and soft sea horizon behind.",
+          "shot2": "Harder thrusts. Sand sticks to damp skin. Wind on skin. Ass or hips impact. Fluid on the towel. They stay on the towel.",
+          "dialogue_shot1": "",
+          "dialogue_shot2": "砂が…んっ…",
+          "overall_soundscape": "Surf distant, wet thrusts, wind, moans.",
+          "camera_lock": "Towel, pair, beach background.",
+          "negative": "indoor bedroom, cut"
+        }
+      ]
+    },
+    {
+      "id": "pool_sex",
+      "name": "Pool Sex",
+      "description": "Pool edge or shallow water; water ripples on thrusts.",
+      "patterns": [
+        {
+          "id": "pool",
+          "summary_action": "Pool edge: she on the rim or in shallow water; {male} thrusts; water ripples and drips.",
+          "shot1": "Pool edge. A woman sits on the rim or stands in shallow water. {male} between her legs pushes in until seated. Water drips from both.",
+          "shot2": "He thrusts. Water ripples outward on each seat. Wet skin slides under his hands. Legs brace on the edge. Fluid mixes with pool water at the contact.",
+          "dialogue_shot1": "",
+          "dialogue_shot2": "水の中…んっ…",
+          "overall_soundscape": "Water splash and drip, wet thrusts, moans.",
+          "camera_lock": "Pool edge and pair in frame.",
+          "negative": "dry indoor only, cut"
+        }
+      ]
+    },
+    {
+      "id": "tent_sex",
+      "name": "Tent Sex",
+      "description": "Cramped tent; fabric walls; thrusts rock the tent.",
+      "patterns": [
+        {
+          "id": "tent",
+          "summary_action": "Inside a small tent: cramped; {male} thrusts; tent fabric rocks; zipper visible.",
+          "shot1": "Inside a small tent. Sleeping bags pushed aside. A woman on her back or side. {male} on top pushes in until seated. Fabric walls close in.",
+          "shot2": "Thrusts rock the tent slightly. Limited headroom. Zipper at the side visible. Breath loud in the small space. Fluid on the sleeping bag.",
+          "dialogue_shot1": "テントの中で…",
+          "dialogue_shot2": "んっ…誰かに聞こえる…",
+          "overall_soundscape": "Fabric rustle, wet thrusts, loud breath in small space, distant outdoor night.",
+          "camera_lock": "Tent interior only; pair and fabric walls.",
+          "negative": "open outdoor full view, cut"
+        }
+      ]
+    },
+    {
+      "id": "hypnosis",
+      "name": "Hypnosis Play",
+      "description": "Vacant compliant expression; body responds while eyes stay soft and unfocused.",
+      "patterns": [
+        {
+          "id": "hypnosis",
+          "summary_action": "Hypnosis play: vacant soft gaze; she presents and takes {male} without resistance; body responds while eyes stay unfocused.",
+          "shot1": "A woman sits or stands with a vacant soft gaze. {male} gives a quiet cue. She presents herself and he pushes in until seated. No struggle.",
+          "shot2": "He thrusts. She remains pliant. Eyes stay unfocused. Body moves with the strokes mechanically. Soft flat acknowledgments between moans.",
+          "dialogue_shot1": "はい…します…",
+          "dialogue_shot2": "ん…いいきもち…",
+          "overall_soundscape": "Quiet room, soft wet motion, her flat soft voice, his calm breath.",
+          "camera_lock": "Her vacant face and the contact in frame.",
+          "negative": "fully alert resistance play only, cut"
+        }
+      ]
+    },
+    {
+      "id": "sleeping_sex",
+      "name": "Sleeping Sex",
+      "description": "Appears asleep; careful entry; half-wake flutter and soft sounds.",
+      "patterns": [
+        {
+          "id": "sleep_sex",
+          "summary_action": "She appears asleep; {male} carefully enters; breath changes; eyes flutter; soft half-asleep sounds on slow strokes.",
+          "shot1": "A woman lies as if asleep, breathing slow and even. {male} carefully positions and pushes in slowly until seated.",
+          "shot2": "He thrusts slowly. Her breath pattern changes. Eyes flutter but do not fully open. Soft unconscious-sounding moans on deeper seats. Fluid on the sheets.",
+          "dialogue_shot1": "",
+          "dialogue_shot2": "ん…やだ…まだ寝て…",
+          "overall_soundscape": "Quiet night room, careful wet motion, soft half-asleep sounds.",
+          "camera_lock": "Bed, her closed or fluttering eyes, hip contact.",
+          "negative": "fully awake energetic sex, cut"
+        }
+      ]
+    },
+    {
+      "id": "netorare",
+      "name": "Netorare",
+      "description": "Pleasure mixed with guilt on her face while he thrusts.",
+      "patterns": [
+        {
+          "id": "ntr",
+          "summary_action": "Netorare: {male} thrusts while her face shows pleasure mixed with guilt; phone or ring optional at frame edge.",
+          "shot1": "A woman with {male} in a private room. He is fully inside her and thrusting. Her face shows pleasure fighting guilt. Phone or ring optional at frame edge.",
+          "shot2": "Thrusts continue full and steady. She covers her face briefly with one hand then drops it. Moans leak despite the conflict. Fluid on her thighs.",
+          "dialogue_shot1": "だめなのに…好きな人が…",
+          "dialogue_shot2": "あっ…イッ…ちゃう…",
+          "overall_soundscape": "Wet thrusts, conflicted moans, quiet room.",
+          "camera_lock": "Her face and the sex in frame; optional phone/ring at edge.",
+          "negative": "happy pure romance only, cut"
+        }
+      ]
+    },
+    {
+      "id": "blackmail",
+      "name": "Blackmail",
+      "description": "Reluctant compliance; body stiff then yielding under leverage.",
+      "patterns": [
+        {
+          "id": "blackmail",
+          "summary_action": "Blackmail: she complies under leverage; {male} enters and thrusts; body starts stiff then yields against her will.",
+          "shot1": "A woman stands or sits stiffly. {male} holds a phone or folder as leverage. She nods once. He positions her and pushes in until seated.",
+          "shot2": "He thrusts. She stays mostly still at first, then her body yields — hips move, breath breaks. Eyes wet. She does not leave. Fluid on her skin.",
+          "dialogue_shot1": "ばらされたくない…から…",
+          "dialogue_shot2": "んっ…はやく…終わって…",
+          "overall_soundscape": "Quiet, wet thrusts, her reluctant breath and broken moans.",
+          "camera_lock": "Leverage object optional; her tense face and contact.",
+          "negative": "enthusiastic free mutual romance only, cut"
+        }
+      ]
+    },
+    {
+      "id": "maid_service",
+      "name": "Maid Service",
+      "description": "Maid-style outfit; ordered oral or ride; service glance up.",
+      "patterns": [
+        {
+          "id": "maid",
+          "summary_action": "Maid service: in maid-style clothes she takes {male} in her mouth or sinks onto him; steady service rhythm; brief glance up.",
+          "shot1": "A woman in a maid-style dress kneels or straddles {male}. She takes his erect penis into her mouth or sinks down until fully seated.",
+          "shot2": "She keeps a steady service rhythm — head bob with spit on the shaft, or hip drops with wet impact. Brief upward glance for approval between motions.",
+          "dialogue_shot1": "ご主人様…お口で…",
+          "dialogue_shot2": "んっ…お役に…",
+          "overall_soundscape": "Wet oral or wet riding, fabric of the outfit, soft service voice.",
+          "camera_lock": "Outfit cues and the act in frame.",
+          "negative": "modern casual only, cut"
+        }
+      ]
+    },
+    {
+      "id": "nurse_night",
+      "name": "Nurse Night Shift",
+      "description": "Dim hospital; nurse uniform; quick thrusts; freeze at footsteps.",
+      "patterns": [
+        {
+          "id": "nurse",
+          "summary_action": "Night ward: nurse-uniform woman; {male} thrusts her against wall or bed; they freeze at distant footsteps then resume.",
+          "shot1": "Dim hospital corridor or empty room. A woman in a nurse-style uniform. {male} pulls her close and pushes in against a wall or bed until seated.",
+          "shot2": "Quick hard thrusts. Skirt lifted. She watches the door. They freeze at a distant footstep, hold still with him still inside, then resume. Fluid on her thigh.",
+          "dialogue_shot1": "夜勤中なのに…",
+          "dialogue_shot2": "んっ…誰か来る…",
+          "overall_soundscape": "Hospital hum, wet thrusts, suppressed voice, distant footsteps.",
+          "camera_lock": "Uniform cue, dim hospital, pair.",
+          "negative": "bright day clinic full of staff, cut"
+        }
+      ]
+    },
+    {
+      "id": "boss_secretary",
+      "name": "Boss Secretary",
+      "description": "Executive desk at night; city lights; professional clothes partly open.",
+      "patterns": [
+        {
+          "id": "boss_sec",
+          "summary_action": "Boss desk after hours: she on the desk; {male} thrusts full strokes; city lights through blinds; clothes partly open.",
+          "shot1": "Executive office at night. A woman sits on the boss desk. {male} between her legs pushes in until seated. City lights through blinds.",
+          "shot2": "He thrusts full strokes. Nameplate or chair behind. She holds his jacket or the desk. Professional clothes partly open. Fluid at the desk edge.",
+          "dialogue_shot1": "社長…いけません…",
+          "dialogue_shot2": "んっ…あっ…",
+          "overall_soundscape": "Quiet office, wet thrusts, desk, suppressed moans.",
+          "camera_lock": "Desk, blinds, pair.",
+          "negative": "home, cut"
+        }
+      ]
+    },
+    {
+      "id": "public_exposure",
+      "name": "Public Exposure",
+      "description": "Semi-public; clothes shifted; freeze when a distant person passes.",
+      "patterns": [
+        {
+          "id": "exposure",
+          "summary_action": "Semi-public: clothes shifted to expose; {male} touches or thrusts; she freezes when a distant person passes then continues.",
+          "shot1": "Outdoor or parking edge. A woman's top is pulled down or skirt lifted. {male} touches her or pushes in. She scans for people.",
+          "shot2": "Contact continues with clear wet motion. A distant figure passes far away. She freezes mid-stroke, holds, then continues when clear. Fluid on her skin.",
+          "dialogue_shot1": "見られたら…",
+          "dialogue_shot2": "んっ…はやく…",
+          "overall_soundscape": "Outdoor air, wet contact, her nervous breath.",
+          "camera_lock": "Exposure point and pair; environment readable as public.",
+          "negative": "fully private locked room only, cut"
+        }
+      ]
+    },
+    {
+      "id": "glory_hole",
+      "name": "Glory Hole",
+      "description": "Anonymous shaft through partition; she strokes and sucks; spit on the wood.",
+      "patterns": [
+        {
+          "id": "glory",
+          "summary_action": "Glory hole: erect penis through a partition hole; she strokes and sucks the anonymous shaft; spit on the wood around the hole.",
+          "shot1": "A partition with a hole. An erect penis extends through. A woman on the other side wraps her hand around it and guides it to her mouth.",
+          "shot2": "She sucks and strokes the anonymous shaft. Spit coats the shaft and the wood around the hole. No face of the man is visible. Wet pull-offs leave strings.",
+          "dialogue_shot1": "",
+          "dialogue_shot2": "んっ…誰の…かわからない…",
+          "overall_soundscape": "Wet oral, soft partition creak, her muffled sounds.",
+          "camera_lock": "Hole, shaft, and her mouth/hand only — no male face.",
+          "negative": "face-to-face full body couple, cut"
+        }
+      ]
+    }
+  ]
+}

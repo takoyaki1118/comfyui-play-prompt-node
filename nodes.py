@@ -1,11 +1,9 @@
 """
 Play Prompt Output Node for ComfyUI
-- Selects or randomly picks a play from prompts.json
-- Even in select mode, if the chosen play has multiple patterns, one is chosen at random
-- Male type (Black / fat / old / muscular / ...) can be selected or randomized
-- {male} placeholder in prompts is replaced with the chosen male description
-- Outputs Shot1 and Shot2 English prompts with slight variations
-- Seed is re-randomized on every execution (not_idempotent)
+- Loads all prompts*.json in the package directory and merges plays
+- Select / random play; select / random male type
+- {male} replaced in visual fields
+- Seed re-randomized every execution
 """
 
 from __future__ import annotations
@@ -16,28 +14,58 @@ from pathlib import Path
 from typing import Any
 
 from comfy_api.latest import io
-from typing_extensions import override
 
 
-# ---------------------------------------------------------------------------
-# Helpers
-# ---------------------------------------------------------------------------
-
-_PROMPTS_PATH = Path(__file__).parent / "prompts.json"
+_PACKAGE_DIR = Path(__file__).parent
 _CACHED_DATA: dict[str, Any] | None = None
 
 
 def _load_prompts() -> dict[str, Any]:
-    """Load and cache the prompts JSON."""
+    """Load and merge all prompts*.json files in the package directory."""
     global _CACHED_DATA
-    if _CACHED_DATA is None:
-        if not _PROMPTS_PATH.exists():
-            raise FileNotFoundError(
-                f"prompts.json not found at {_PROMPTS_PATH}. "
-                "Place the play list JSON next to the node package."
-            )
-        with open(_PROMPTS_PATH, "r", encoding="utf-8") as f:
-            _CACHED_DATA = json.load(f)
+    if _CACHED_DATA is not None:
+        return _CACHED_DATA
+
+    files = sorted(_PACKAGE_DIR.glob("prompts*.json"))
+    if not files:
+        raise FileNotFoundError(
+            f"No prompts*.json found in {_PACKAGE_DIR}. "
+            "Place at least one prompts.json next to the node package."
+        )
+
+    merged_plays: list[dict[str, Any]] = []
+    merged_males: list[dict[str, Any]] = []
+    seen_play_ids: set[str] = set()
+    seen_male_ids: set[str] = set()
+    sources: list[str] = []
+
+    for path in files:
+        with open(path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        sources.append(path.name)
+
+        for male in data.get("male_types", []):
+            mid = male.get("id") or male.get("name")
+            if mid and mid not in seen_male_ids:
+                seen_male_ids.add(mid)
+                merged_males.append(male)
+
+        for play in data.get("plays", []):
+            pid = play.get("id") or play.get("name")
+            if not pid:
+                continue
+            if pid in seen_play_ids:
+                # later file overrides earlier with same id
+                merged_plays = [p for p in merged_plays if (p.get("id") or p.get("name")) != pid]
+            seen_play_ids.add(pid)
+            merged_plays.append(play)
+
+    _CACHED_DATA = {
+        "version": "merged",
+        "sources": sources,
+        "male_types": merged_males,
+        "plays": merged_plays,
+    }
     return _CACHED_DATA
 
 
@@ -48,7 +76,7 @@ def _get_play_names() -> list[str]:
         names = [p.get("name", p.get("id", f"play_{i}")) for i, p in enumerate(plays)]
         return names if names else ["(no plays loaded)"]
     except Exception:
-        return ["(failed to load prompts.json)"]
+        return ["(failed to load prompts)"]
 
 
 def _get_male_type_names() -> list[str]:
@@ -58,7 +86,7 @@ def _get_male_type_names() -> list[str]:
         names = [t.get("name", t.get("id", f"type_{i}")) for i, t in enumerate(types)]
         return names if names else ["(no male types)"]
     except Exception:
-        return ["(failed to load prompts.json)"]
+        return ["(failed to load prompts)"]
 
 
 def _find_play_by_name(name: str) -> dict[str, Any] | None:
@@ -78,49 +106,31 @@ def _find_male_type_by_name(name: str) -> dict[str, Any] | None:
 
 
 def _pick_pattern(play: dict[str, Any], rng: random.Random) -> dict[str, Any]:
-    """Pick one pattern from the play's patterns list (always random among them)."""
     patterns = play.get("patterns", [])
     if not patterns:
         return {
             "shot1": f"[ERROR] Play '{play.get('name', '?')}' has no patterns.",
             "shot2": f"[ERROR] Play '{play.get('name', '?')}' has no patterns.",
+            "dialogue_shot1": "",
+            "dialogue_shot2": "",
+            "overall_soundscape": "",
+            "summary_action": "",
+            "camera_lock": "",
+            "negative": "",
         }
     return rng.choice(patterns)
 
 
 def _apply_male(text: str, male_prompt: str) -> str:
-    """Replace {male} placeholder. If no placeholder, leave text unchanged."""
+    if not text:
+        return text or ""
     if "{male}" in text:
         return text.replace("{male}", male_prompt)
     return text
 
 
-# ---------------------------------------------------------------------------
-# Node
-# ---------------------------------------------------------------------------
-
 class PlayPromptOutput(io.ComfyNode):
-    """
-    Outputs Shot1 / Shot2 text prompts based on play content stored in prompts.json.
-
-    Play modes
-    ----------
-    - select : User chooses a play by name. If that play has multiple patterns,
-               one pattern is still chosen at random.
-    - random : A play is chosen uniformly at random, then a pattern from it.
-
-    Male type modes
-    ---------------
-    - select : User chooses a specific male type (Black man, fat man, old man, ...).
-    - random : A male type is chosen uniformly at random.
-
-    The chosen male description replaces the {male} placeholder in the prompt.
-    If a pattern has no {male}, the male_type setting is ignored for that pattern.
-
-    Seed
-    ----
-    Forced random on every execution (not_idempotent + fingerprint_inputs).
-    """
+    """Play prompt output with multi-JSON support."""
 
     @classmethod
     def define_schema(cls):
@@ -132,14 +142,11 @@ class PlayPromptOutput(io.ComfyNode):
             display_name="Play Prompt Output (Shot1/Shot2)",
             category="prompt/play",
             description=(
-                "Select or randomly pick a play and a male type from prompts.json, "
-                "then output English Shot1 / Shot2 prompts plus a summary_action. "
-                "{male} placeholders are replaced with the chosen male description. "
-                "Multiple patterns under one play are always randomized even in select mode. "
-                "Seed changes every run."
+                "Loads all prompts*.json in the package, merges plays, "
+                "outputs Shot1/Shot2, Japanese dialogue, soundscape, "
+                "summary_action, camera_lock, negative. Seed changes every run."
             ),
             inputs=[
-                # --- Play ---
                 io.Combo.Input(
                     "mode",
                     options=["select", "random"],
@@ -150,37 +157,37 @@ class PlayPromptOutput(io.ComfyNode):
                     "play",
                     options=play_names,
                     default=play_names[0],
-                    tooltip="Used only when mode=select. Ignored in random mode.",
+                    tooltip="Used only when mode=select.",
                 ),
-                # --- Male type ---
                 io.Combo.Input(
                     "male_mode",
                     options=["select", "random"],
                     default="select",
-                    tooltip="select = choose a specific male type; random = pick any type",
+                    tooltip="select or random male type",
                 ),
                 io.Combo.Input(
                     "male_type",
                     options=male_names,
                     default=male_names[0] if male_names else "Average man",
-                    tooltip="Used only when male_mode=select. Replaces {male} in prompts.",
+                    tooltip="Used only when male_mode=select.",
                 ),
-                # --- Seed ---
                 io.Int.Input(
                     "seed",
                     default=0,
                     min=0,
                     max=0xFFFFFFFFFFFFFFFF,
-                    tooltip=(
-                        "Base seed (for reference). The node forces a new random "
-                        "seed on every execution so results differ each run."
-                    ),
+                    tooltip="Base seed; node forces a new random seed every execution.",
                 ),
             ],
             outputs=[
                 io.String.Output("Shot1"),
                 io.String.Output("Shot2"),
+                io.String.Output("Dialogue_Shot1"),
+                io.String.Output("Dialogue_Shot2"),
+                io.String.Output("overall_soundscape"),
                 io.String.Output("summary_action"),
+                io.String.Output("camera_lock"),
+                io.String.Output("negative"),
                 io.String.Output("play_name"),
                 io.String.Output("pattern_id"),
                 io.String.Output("male_type_name"),
@@ -191,7 +198,6 @@ class PlayPromptOutput(io.ComfyNode):
 
     @classmethod
     def fingerprint_inputs(cls, mode, play, male_mode, male_type, seed):
-        """Force re-execution on every run."""
         import time
         return time.time_ns()
 
@@ -205,27 +211,22 @@ class PlayPromptOutput(io.ComfyNode):
         male_types = data.get("male_types", [])
 
         if not plays:
-            empty = "[ERROR] No plays defined in prompts.json"
-            return io.NodeOutput(empty, empty, empty, "", "", "", effective_seed)
+            empty = "[ERROR] No plays defined in prompts*.json"
+            return io.NodeOutput(
+                empty, empty, "", "", "", empty, "", "", "", "", "", effective_seed
+            )
 
-        # ----- Select play -----
         if mode == "select":
-            selected_play = _find_play_by_name(play)
-            if selected_play is None:
-                selected_play = plays[0]
+            selected_play = _find_play_by_name(play) or plays[0]
         else:
             selected_play = rng.choice(plays)
 
         pattern = _pick_pattern(selected_play, rng)
 
-        # ----- Select male type -----
         if not male_types:
-            male_prompt = "a man"
-            male_name = "(none)"
+            male_prompt, male_name = "a man", "(none)"
         elif male_mode == "select":
-            selected_male = _find_male_type_by_name(male_type)
-            if selected_male is None:
-                selected_male = male_types[0]
+            selected_male = _find_male_type_by_name(male_type) or male_types[0]
             male_prompt = selected_male.get("prompt", "a man")
             male_name = selected_male.get("name", selected_male.get("id", ""))
         else:
@@ -233,24 +234,31 @@ class PlayPromptOutput(io.ComfyNode):
             male_prompt = selected_male.get("prompt", "a man")
             male_name = selected_male.get("name", selected_male.get("id", ""))
 
-        # ----- Apply {male} -----
         shot1 = _apply_male(pattern.get("shot1", ""), male_prompt)
         shot2 = _apply_male(pattern.get("shot2", ""), male_prompt)
-
-        # summary_action: prefer pattern-level field, else play description
-        summary_action = (
+        dialogue_shot1 = pattern.get("dialogue_shot1", "") or ""
+        dialogue_shot2 = pattern.get("dialogue_shot2", "") or ""
+        overall_soundscape = pattern.get("overall_soundscape", "") or ""
+        summary_action = _apply_male(
             pattern.get("summary_action")
             or selected_play.get("description")
-            or selected_play.get("name", "")
+            or selected_play.get("name", ""),
+            male_prompt,
         )
-
+        camera_lock = pattern.get("camera_lock", "") or ""
+        negative = pattern.get("negative", "") or ""
         play_name = selected_play.get("name", selected_play.get("id", ""))
         pattern_id = pattern.get("id", "")
 
         return io.NodeOutput(
             shot1,
             shot2,
+            dialogue_shot1,
+            dialogue_shot2,
+            overall_soundscape,
             summary_action,
+            camera_lock,
+            negative,
             play_name,
             pattern_id,
             male_name,
@@ -258,12 +266,8 @@ class PlayPromptOutput(io.ComfyNode):
         )
 
 
-# ---------------------------------------------------------------------------
-# Reload helper
-# ---------------------------------------------------------------------------
-
 class ReloadPlayPrompts(io.ComfyNode):
-    """Force-reload prompts.json from disk (clears the in-memory cache)."""
+    """Clear cache and reload all prompts*.json."""
 
     @classmethod
     def define_schema(cls):
@@ -271,17 +275,11 @@ class ReloadPlayPrompts(io.ComfyNode):
             node_id="ReloadPlayPrompts",
             display_name="Reload Play Prompts JSON",
             category="prompt/play",
-            description="Clears the cached prompts.json so the next PlayPromptOutput run reads the latest file.",
+            description="Clears cache and reloads all prompts*.json in the package.",
             inputs=[
-                io.Boolean.Input(
-                    "reload",
-                    default=True,
-                    tooltip="Trigger reload (value is ignored; just connect or toggle).",
-                ),
+                io.Boolean.Input("reload", default=True, tooltip="Trigger reload."),
             ],
-            outputs=[
-                io.String.Output("status"),
-            ],
+            outputs=[io.String.Output("status")],
             not_idempotent=True,
         )
 
@@ -296,10 +294,10 @@ class ReloadPlayPrompts(io.ComfyNode):
         _CACHED_DATA = None
         try:
             data = _load_prompts()
-            play_count = len(data.get("plays", []))
-            male_count = len(data.get("male_types", []))
             return io.NodeOutput(
-                f"Reloaded successfully. {play_count} play(s), {male_count} male type(s) loaded."
+                f"Reloaded. sources={data.get('sources')} "
+                f"plays={len(data.get('plays', []))} "
+                f"male_types={len(data.get('male_types', []))}"
             )
         except Exception as e:
             return io.NodeOutput(f"Reload failed: {e}")

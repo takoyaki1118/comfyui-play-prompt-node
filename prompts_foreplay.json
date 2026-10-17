@@ -1,0 +1,546 @@
+{
+  "version": "3.2",
+  "description": "Foreplay. video-action-prompt standard.",
+  "plays": [
+    {
+      "id": "nipple_licking",
+      "name": "Nipple Licking",
+      "description": "Tongue and lips on nipple; nipple hardens and glistens.",
+      "patterns": [
+        {
+          "id": "nipple_lick",
+          "summary_action": "{male} drags his tongue over her nipple then sucks; the nipple hardens and glistens.",
+          "shot1": "Close on a woman's bare breast. {male}'s tongue flattens on her nipple and drags slowly across it. His hand cups the breast from below.",
+          "shot2": "He takes the nipple into his mouth and sucks. The nipple hardens and comes out wet and glistening when he pulls off with a soft pop. She arches slightly into his mouth.",
+          "dialogue_shot1": "",
+          "dialogue_shot2": "んっ…そこ…",
+          "overall_soundscape": "Wet tongue drag, soft suction, soft pop on release, her breath and moan.",
+          "camera_lock": "Close-up on mouth, nipple, and supporting hand.",
+          "negative": "full intercourse, cut, dry nipple with no wet trail"
+        }
+      ]
+    },
+    {
+      "id": "breast_massage",
+      "name": "Breast Massage",
+      "description": "Hands knead breasts; flesh deforms under fingers.",
+      "patterns": [
+        {
+          "id": "breast_massage",
+          "summary_action": "Both hands squeeze and knead her breasts; fingers sink in; nipples shift between fingers.",
+          "shot1": "Both hands cup a woman's bare breasts from below and squeeze. Fingers sink deep into soft flesh. Nipples sit between fingers.",
+          "shot2": "Stronger kneading. Breasts change shape under the grip — flattened then released. Thumbs brush and press the nipples. Skin slightly reddened from pressure.",
+          "dialogue_shot1": "",
+          "dialogue_shot2": "強く…んっ…",
+          "overall_soundscape": "Soft flesh under hands, her breath.",
+          "camera_lock": "Close on hands and both breasts.",
+          "negative": "penis in frame, cut"
+        }
+      ]
+    },
+    {
+      "id": "fingering",
+      "name": "Fingering",
+      "description": "Fingers in and out of vagina; wet coat builds on the hand.",
+      "patterns": [
+        {
+          "id": "finger_vag",
+          "summary_action": "Two fingers thrust in and out of her vagina to the knuckles; wetness coats the hand; hips shift toward the fingers.",
+          "shot1": "A woman's legs are open. Two fingers slide into her vagina up to the knuckles. Clear wetness already coats the fingers.",
+          "shot2": "The fingers thrust steadily in and out. Wet sounds. More fluid coats the palm. Her hips shift toward the hand on each in-stroke.",
+          "dialogue_shot1": "",
+          "dialogue_shot2": "指…んぁっ…",
+          "overall_soundscape": "Wet fingering strokes, her moans, breath.",
+          "camera_lock": "Close on hand and vaginal entrance.",
+          "negative": "penis insertion, cut, dry fingers"
+        }
+      ]
+    },
+    {
+      "id": "clitoris_stim",
+      "name": "Clitoris Stimulation",
+      "description": "Fingertip circles and rubs clit; thighs tense and twitch.",
+      "patterns": [
+        {
+          "id": "clit_rub",
+          "summary_action": "A fingertip circles then rubs her clitoris; thighs tense and twitch; wetness spreads.",
+          "shot1": "Close on her open labia. A fingertip rests on the clitoris and begins slow tight circles.",
+          "shot2": "Firmer faster rubbing on the same spot. Her thighs tense and twitch. Hips try to follow. Wetness spreads over the mound and finger.",
+          "dialogue_shot1": "",
+          "dialogue_shot2": "クリ…だめ…っ",
+          "overall_soundscape": "Soft wet rub, sharp breath, rising moans.",
+          "camera_lock": "Extreme close on clit and fingertip.",
+          "negative": "deep penetration only, cut"
+        }
+      ]
+    },
+    {
+      "id": "cunnilingus",
+      "name": "Cunnilingus",
+      "description": "Long lick then focused clit tongue; hips lift.",
+      "patterns": [
+        {
+          "id": "cunni",
+          "summary_action": "{male}'s tongue makes a long lick from entrance to clit, then focuses rapid or firm licks on the clit; her hips lift.",
+          "shot1": "A woman's legs are open. {male}'s face is between her thighs. His tongue makes one long slow lick from her entrance up to the clitoris, leaving a wet trail.",
+          "shot2": "He focuses on the clitoris with repeated firm licks. Her hips lift toward his mouth. Hands may grip his hair. Fluid on his chin and her thighs.",
+          "dialogue_shot1": "",
+          "dialogue_shot2": "舌…気持ちいい…っ",
+          "overall_soundscape": "Wet tongue, her moans, his breath between licks.",
+          "camera_lock": "Between her thighs; mouth and pussy in frame.",
+          "negative": "penis, cut, dry tongue"
+        }
+      ]
+    },
+    {
+      "id": "deepthroat_fellatio",
+      "name": "Deepthroat Fellatio",
+      "description": "Full length into throat; nose to body; spit coats shaft.",
+      "patterns": [
+        {
+          "id": "dt_fellatio",
+          "summary_action": "She takes {male}'s erect penis the full length into her throat; nose toward his body; thick spit coats the shaft on the pull-back.",
+          "shot1": "A woman on her knees opens wide and guides {male}'s erect penis into her mouth past mid-shaft. Lips seal.",
+          "shot2": "She pushes forward until the full length is in her throat, nose toward his body. Holds, then pulls back. Thick spit coats the entire shaft and drips from her lips. Eyes may water.",
+          "dialogue_shot1": "奥まで…",
+          "dialogue_shot2": "",
+          "overall_soundscape": "Wet gulp on full take, gag reaction, spit strings on pull-back, breath through nose.",
+          "camera_lock": "Side or front on mouth and full shaft path.",
+          "negative": "shallow tip-only only, cut, dry shaft"
+        }
+      ]
+    },
+    {
+      "id": "handjob_fp",
+      "name": "Handjob",
+      "description": "Firm fist strokes; precum beads then smears.",
+      "patterns": [
+        {
+          "id": "hj_stroke",
+          "summary_action": "A firm fist strokes {male}'s erect penis from base to head; precum beads then smears on the head and fingers.",
+          "shot1": "Her hand wraps {male}'s erect shaft in a firm fist and strokes from base to head at a steady pace. A clear bead of precum forms at the tip.",
+          "shot2": "Faster strokes. Shaft skin bunches under her fingers on the downstroke. Precum smears along the head and over her fingers. Shaft stays vertical and hard.",
+          "dialogue_shot1": "",
+          "dialogue_shot2": "出そう…？",
+          "overall_soundscape": "Wet skin stroke, breath.",
+          "camera_lock": "Close on hand and shaft.",
+          "negative": "mouth on penis, cut, soft loose grip only"
+        }
+      ]
+    },
+    {
+      "id": "paizuri_fp",
+      "name": "Paizuri",
+      "description": "Breasts squeezed around shaft; disappear and emerge each cycle.",
+      "patterns": [
+        {
+          "id": "paizuri_stroke",
+          "summary_action": "She squeezes her breasts around {male}'s penis; on each cycle the shaft disappears between them then fully emerges.",
+          "shot1": "A woman presses her breasts hard around {male}'s erect penis, forming a tight valley with no gap.",
+          "shot2": "She slides up and down. On the down stroke the penis disappears completely between her breasts; on the up stroke it emerges fully, wet from the friction. Flesh compresses and shifts around the shaft.",
+          "dialogue_shot1": "",
+          "dialogue_shot2": "",
+          "overall_soundscape": "Soft flesh slide, breath.",
+          "camera_lock": "Cleavage and full shaft path in frame.",
+          "negative": "loose gap between breasts, cut"
+        }
+      ]
+    },
+    {
+      "id": "thighjob",
+      "name": "Thighjob",
+      "description": "Penis trapped between pressed thighs; thrusts with friction.",
+      "patterns": [
+        {
+          "id": "thighjob",
+          "summary_action": "Her thighs press tight around {male}'s erect penis; he thrusts between them; precum on her skin.",
+          "shot1": "A woman lies or sits with thighs pressed firmly together. {male}'s erect penis is trapped between them from the front.",
+          "shot2": "He thrusts between the tight thighs. Shaft slides with visible friction. Her hands press her thighs tighter. Precum smears on her inner skin.",
+          "dialogue_shot1": "",
+          "dialogue_shot2": "太もも…んっ…",
+          "overall_soundscape": "Skin friction, breath.",
+          "camera_lock": "Thighs and shaft in frame.",
+          "negative": "vaginal entry, cut"
+        }
+      ]
+    },
+    {
+      "id": "footjob_fp",
+      "name": "Footjob",
+      "description": "Soles and toes stroke shaft; head emerges between arches.",
+      "patterns": [
+        {
+          "id": "fj",
+          "summary_action": "Bare feet wrap {male}'s erect penis; soles stroke; the head emerges between her arches on each upstroke.",
+          "shot1": "A woman places both bare feet around {male}'s erect penis, soles facing each other, and begins to stroke up and down.",
+          "shot2": "Toes curl and press the shaft. On each upstroke the head emerges between her arches. Precum wets her sole. Steady rhythm.",
+          "dialogue_shot1": "",
+          "dialogue_shot2": "",
+          "overall_soundscape": "Soft skin on skin, breath.",
+          "camera_lock": "Feet and shaft in frame.",
+          "negative": "hands only, cut"
+        }
+      ]
+    },
+    {
+      "id": "anal_rimming",
+      "name": "Anal Rimming",
+      "description": "Tongue circles then licks anus; wet trail on skin.",
+      "patterns": [
+        {
+          "id": "rimjob",
+          "summary_action": "Tongue circles her anus then makes a flat lick across it; wet trail left on the skin; she tenses then relaxes.",
+          "shot1": "Close on her ass with cheeks spread. A tongue makes a slow circle around the anus, then a flat lick straight across it.",
+          "shot2": "The tongue presses more firmly, tip probing the entrance. She tenses then relaxes. A wet trail shines on the skin around the hole.",
+          "dialogue_shot1": "",
+          "dialogue_shot2": "そこ…恥ずかしい…っ",
+          "overall_soundscape": "Wet tongue, her sharp breath, soft moan.",
+          "camera_lock": "Close on tongue and anus.",
+          "negative": "penis entry, cut"
+        }
+      ]
+    },
+    {
+      "id": "prostate_massage",
+      "name": "Prostate Massage",
+      "description": "Finger curls on prostate; penis twitches and leaks.",
+      "patterns": [
+        {
+          "id": "prostate",
+          "summary_action": "A lubricated finger inside {male}'s ass curls on the prostate; his erect penis twitches and leaks.",
+          "shot1": "{male} on his back or knees. A lubricated finger enters his anus and curls forward toward the prostate.",
+          "shot2": "Steady pressure and small motions on the prostate. His erect penis twitches hard and a bead of fluid leaks from the tip. Breath hitches.",
+          "dialogue_shot1": "",
+          "dialogue_shot2": "そこ…あっ…",
+          "overall_soundscape": "Quiet wet motion, his strained breath.",
+          "camera_lock": "Hand at entry and his reacting penis if in frame.",
+          "negative": "dry force without lube cue, cut"
+        }
+      ]
+    },
+    {
+      "id": "lotion_play",
+      "name": "Lotion Play",
+      "description": "Lotion poured and spread; bodies slide on glossy skin.",
+      "patterns": [
+        {
+          "id": "lotion",
+          "summary_action": "Lotion is poured and spread into a glossy layer; hands and bodies slide easily on the slick skin.",
+          "shot1": "Lotion pours onto a woman's breasts or belly in a thick stream. Hands immediately spread it into a glossy slick layer.",
+          "shot2": "Bodies press and slide. Hands glide without friction over lotioned curves. Nipples and skin shine. Excess lotion drips.",
+          "dialogue_shot1": "",
+          "dialogue_shot2": "ぬるぬる…んっ…",
+          "overall_soundscape": "Slick wet slide, soft breath.",
+          "camera_lock": "Glossy skin and sliding hands in frame.",
+          "negative": "dry matte skin, cut"
+        }
+      ]
+    },
+    {
+      "id": "spanking_foreplay",
+      "name": "Spanking Foreplay",
+      "description": "Open-hand spanks; cheek jiggles and reddens.",
+      "patterns": [
+        {
+          "id": "spank",
+          "summary_action": "An open hand spanks her ass; the cheek jiggles on impact and skin reddens over several hits.",
+          "shot1": "A woman on all fours or bent over. An open hand rises and lands on one ass cheek. The flesh jiggles on impact.",
+          "shot2": "Several more spanks alternate left and right. Skin reddens. She gasps on each impact. Cheeks still jiggle after the hand lifts.",
+          "dialogue_shot1": "",
+          "dialogue_shot2": "あんっ…！",
+          "overall_soundscape": "Sharp slap, gasp, soft after-jiggle.",
+          "camera_lock": "Ass and striking hand in frame.",
+          "negative": "injury, weapons, cut"
+        }
+      ]
+    },
+    {
+      "id": "ball_licking",
+      "name": "Ball Licking",
+      "description": "Tongue on scrotum; gentle suck on one testicle; saliva wets skin.",
+      "patterns": [
+        {
+          "id": "balls",
+          "summary_action": "She licks across {male}'s scrotum then gently sucks one testicle; saliva wets the skin; penis stays erect above.",
+          "shot1": "Close on {male}'s erect penis and testicles. A woman's tongue licks slowly across the scrotum from back to front.",
+          "shot2": "She takes one testicle carefully into her mouth and sucks gently. Saliva wets the skin. The erect penis stays above, untouched or lightly held.",
+          "dialogue_shot1": "",
+          "dialogue_shot2": "",
+          "overall_soundscape": "Wet tongue, soft suction, his breath.",
+          "camera_lock": "Mouth, balls, and base of shaft.",
+          "negative": "rough pulling, teeth, cut"
+        }
+      ]
+    },
+    {
+      "id": "ass_massage",
+      "name": "Ass Massage",
+      "description": "Hands knead and spread ass cheeks.",
+      "patterns": [
+        {
+          "id": "ass_massage",
+          "summary_action": "Both hands knead her ass; fingers dig in; cheeks are spread then released and squeezed again.",
+          "shot1": "Both hands grip her ass cheeks and knead. Fingers dig deep into soft flesh.",
+          "shot2": "Cheeks are spread briefly open, then released and squeezed hard again. She pushes her hips back into the hands.",
+          "dialogue_shot1": "",
+          "dialogue_shot2": "んっ…そこ…",
+          "overall_soundscape": "Soft flesh under hands, her breath.",
+          "camera_lock": "Hands and ass in frame.",
+          "negative": "penetration as only focus, cut"
+        }
+      ]
+    },
+    {
+      "id": "pussy_rubbing",
+      "name": "Pussy Rubbing",
+      "description": "Outer labia and mound rubbed; wetness spreads; no deep insert.",
+      "patterns": [
+        {
+          "id": "pussy_rub",
+          "summary_action": "A hand rubs along her outer labia and mound; wetness spreads on fingers; hips follow the hand.",
+          "shot1": "An open hand or fingers rub slowly along her outer labia and over the clitoral hood. No deep insertion.",
+          "shot2": "Firmer rubbing. Labia part slightly under the pressure. Clear wetness coats the fingers and mound. Hips follow the hand's path.",
+          "dialogue_shot1": "",
+          "dialogue_shot2": "擦るの…んっ…",
+          "overall_soundscape": "Soft wet rub, her breath and moans.",
+          "camera_lock": "Hand and outer pussy in frame.",
+          "negative": "deep fingering only, cut"
+        }
+      ]
+    },
+    {
+      "id": "tongue_kiss_deep",
+      "name": "Deep Tongue Kiss",
+      "description": "Open mouths; tongues press and slide; saliva strand.",
+      "patterns": [
+        {
+          "id": "deep_kiss",
+          "summary_action": "Deep open-mouth kiss; tongues visibly press and slide; a saliva strand may form between lips.",
+          "shot1": "Close on two faces. Mouths open against each other. Tongues meet and press in the middle of a deep kiss.",
+          "shot2": "The kiss deepens. Heads tilt. Hands hold jaws or hair. When they part a short way, a saliva strand stretches between lower lips.",
+          "dialogue_shot1": "",
+          "dialogue_shot2": "",
+          "overall_soundscape": "Wet kiss sounds, soft breath through noses.",
+          "camera_lock": "Close on mouths and tongues.",
+          "negative": "closed-lip peck only, cut"
+        }
+      ]
+    },
+    {
+      "id": "vibrator_tease",
+      "name": "Vibrator Tease",
+      "description": "Bullet on clit; thighs tense and twitch; hips flinch then press back.",
+      "patterns": [
+        {
+          "id": "vibe_tease",
+          "summary_action": "A small vibrator presses her clitoris; thighs tense and twitch; hips flinch away then press back into the toy.",
+          "shot1": "A small vibrator touches her outer labia near the clitoris. Low continuous buzz. She flinches at first contact.",
+          "shot2": "The vibrator presses more firmly directly on the clitoris. Thighs tense and twitch. Hips try to escape then press back into the buzz. Wetness on the toy tip.",
+          "dialogue_shot1": "",
+          "dialogue_shot2": "だめ…震える…っ",
+          "overall_soundscape": "Vibrator buzz, her sharp gasps and moans.",
+          "camera_lock": "Toy and contact point in frame.",
+          "negative": "full intercourse, cut"
+        }
+      ]
+    },
+    {
+      "id": "dildo_foreplay",
+      "name": "Dildo Foreplay",
+      "description": "Dildo rubbed at entrance then pushed in inch by inch.",
+      "patterns": [
+        {
+          "id": "dildo_tease",
+          "summary_action": "A dildo tip rubs her wet entrance then is pushed in inch by inch until much of the shaft disappears.",
+          "shot1": "A dildo tip rubs up and down her wet entrance without entering. Fluid coats the tip.",
+          "shot2": "The dildo is slowly pushed in. Shaft disappears inch by inch. Her breath catches at each new depth. Outer lips stretch around the toy.",
+          "dialogue_shot1": "",
+          "dialogue_shot2": "入って…くる…っ",
+          "overall_soundscape": "Wet slide of toy, her moans, caught breath on depth.",
+          "camera_lock": "Toy and entrance in frame; stretch visible.",
+          "negative": "penis, cut, instant full bury with no gradual path"
+        }
+      ]
+    },
+    {
+      "id": "nipple_clamp_tease",
+      "name": "Nipple Clamp Tease",
+      "description": "Clamps on both nipples; light tug lifts breasts; she gasps.",
+      "patterns": [
+        {
+          "id": "nipple_clamp",
+          "summary_action": "Clamps close on both nipples; a light tug lifts the breasts slightly; she gasps and arches.",
+          "shot1": "Close on bare breasts. Clamps open and close onto each nipple. Nipples pinch tight and stand out under the metal.",
+          "shot2": "A light chain or tug pulls both clamps at once. Breasts lift slightly. She gasps and arches. Nipples stay pinched and reddened.",
+          "dialogue_shot1": "",
+          "dialogue_shot2": "乳首…つままれて…っ",
+          "overall_soundscape": "Small metallic click, her gasp and moan.",
+          "camera_lock": "Breasts, clamps, and tug in frame.",
+          "negative": "injury, blood, cut"
+        }
+      ]
+    },
+    {
+      "id": "wax_drip",
+      "name": "Wax Drip",
+      "description": "Warm wax drops land and cool into patches; she flinches.",
+      "patterns": [
+        {
+          "id": "wax",
+          "summary_action": "Warm wax drops land on her belly or breast and cool into pale patches; she flinches on each drop.",
+          "shot1": "A candle tip tilts. One drop of warm wax falls onto her belly or the upper curve of a breast. She flinches on contact.",
+          "shot2": "Several more drops land in a short line. Each cools and hardens into a pale raised patch. Breath stays quick between drops.",
+          "dialogue_shot1": "",
+          "dialogue_shot2": "熱い…っ",
+          "overall_soundscape": "Soft drip impact, her flinch breath.",
+          "camera_lock": "Wax drops and skin patches in frame.",
+          "negative": "burn injury, open flame on skin, cut"
+        }
+      ]
+    },
+    {
+      "id": "blindfold_tease",
+      "name": "Blindfold Tease",
+      "description": "Blindfolded; unknown touches make her jump then lean in.",
+      "patterns": [
+        {
+          "id": "blindfold",
+          "summary_action": "Blindfolded; a fingertip traces her then moves lower; she jumps at first touch then leans into later ones.",
+          "shot1": "A soft blindfold covers her eyes. She sits or lies still. A fingertip traces her collarbone. She jumps slightly at the unknown touch.",
+          "shot2": "The touch moves to a breast, then lower toward her belly or thigh. Without sight she leans into some touches and tenses at others. Breath uneven.",
+          "dialogue_shot1": "",
+          "dialogue_shot2": "誰…？ んっ…",
+          "overall_soundscape": "Quiet room, fabric, her uncertain breath and soft moans.",
+          "camera_lock": "Blindfold and the touching hand; her face partially visible.",
+          "negative": "eyes open, cut"
+        }
+      ]
+    },
+    {
+      "id": "edging_handjob",
+      "name": "Edging Handjob",
+      "description": "Fast strokes to the edge then full stop; resume slow; deny release.",
+      "patterns": [
+        {
+          "id": "edge_hj",
+          "summary_action": "She strokes {male} fast toward climax, stops completely at the edge while he strains, then resumes slow strokes.",
+          "shot1": "Her fist strokes {male}'s erect penis firmly and fast. His abdomen tightens. Tip darkens. Muscles strain toward release.",
+          "shot2": "She stops completely at the edge. He strains and exhales hard without finishing. After a beat she resumes only slow strokes, keeping him denied.",
+          "dialogue_shot1": "まだ…だめ",
+          "dialogue_shot2": "",
+          "overall_soundscape": "Fast wet strokes, sudden silence, strained breath, then slow strokes again.",
+          "camera_lock": "Hand, shaft, and his reacting abdomen or face.",
+          "negative": "immediate full climax, cut"
+        }
+      ]
+    },
+    {
+      "id": "multiple_orgasm_tease",
+      "name": "Multiple Orgasm Tease",
+      "description": "Stimulation continues through climax into oversensitive twitches.",
+      "patterns": [
+        {
+          "id": "multi_tease",
+          "summary_action": "She climaxes under continuous clit stimulation; past the peak she is oversensitive; legs try to close; small touches draw sharp cries.",
+          "shot1": "Her body peaks — thighs shake, breath breaks, hips buck. Fingers or tongue stay on her clitoris through the climax.",
+          "shot2": "Past the peak she is oversensitive. Legs try to close. Hips jerk away then get held open. Small continued touches on the same spot draw sharp high cries.",
+          "dialogue_shot1": "",
+          "dialogue_shot2": "やめて…敏感…っ！",
+          "overall_soundscape": "Peak moans, then sharper oversensitive cries, wet continued contact.",
+          "camera_lock": "Hips, stimulating hand or mouth, and her reacting face.",
+          "negative": "stop at first climax, cut"
+        }
+      ]
+    },
+    {
+      "id": "slow_licking",
+      "name": "Slow Licking",
+      "description": "Deliberately slow tongue path along thigh to labia.",
+      "patterns": [
+        {
+          "id": "slow_lick",
+          "summary_action": "A slow flat tongue drag along her inner thigh up to the outer labia; long wet trail; she waits for more.",
+          "shot1": "Tongue starts low on her inner thigh and drags slowly upward. Goosebumps. A long wet trail follows the tongue.",
+          "shot2": "The tongue reaches the outer labia and continues the same slow pace without speeding up. She holds still, waiting. Trail glistens.",
+          "dialogue_shot1": "",
+          "dialogue_shot2": "じれったい…んっ…",
+          "overall_soundscape": "Long wet drag, soft breath.",
+          "camera_lock": "Tongue path on skin in frame.",
+          "negative": "fast frantic licking only, cut"
+        }
+      ]
+    },
+    {
+      "id": "rapid_tongue",
+      "name": "Rapid Tongue",
+      "description": "Rapid flicks locked on clit; hips buck.",
+      "patterns": [
+        {
+          "id": "rapid_tongue",
+          "summary_action": "Tongue tip flicks rapidly on her clitoris; hips buck toward the mouth; hands grip.",
+          "shot1": "Tongue tip locks on her clitoris and flicks rapidly. Wet blur of motion. Her thighs clamp then open again.",
+          "shot2": "Speed holds without slowing. Hips buck hard toward the mouth. Hands grip sheets or his head. Peak builds in her breath.",
+          "dialogue_shot1": "",
+          "dialogue_shot2": "速い…だめ…っ！",
+          "overall_soundscape": "Rapid wet flicks, rising moans, bucking breath.",
+          "camera_lock": "Mouth locked on the clit area.",
+          "negative": "slow only, cut"
+        }
+      ]
+    },
+    {
+      "id": "suction_nipples",
+      "name": "Suction Nipples",
+      "description": "Strong suck; cheek hollows; nipple pulls elongated; wet pop on release.",
+      "patterns": [
+        {
+          "id": "suction_nipple",
+          "summary_action": "Mouth seals on her nipple and sucks hard; cheek hollows; nipple pulls elongated; wet pop on release then reseal.",
+          "shot1": "Mouth seals fully over her nipple and sucks hard. Cheek hollows. The nipple pulls slightly elongated into the mouth.",
+          "shot2": "Suction releases with a wet pop, nipple wet and standing, then seals and sucks again. She arches into the mouth on each seal.",
+          "dialogue_shot1": "",
+          "dialogue_shot2": "吸わないで…んぁっ…",
+          "overall_soundscape": "Strong wet suction, pop on release, her moans.",
+          "camera_lock": "Mouth sealed on breast in frame.",
+          "negative": "gentle lick only, cut"
+        }
+      ]
+    },
+    {
+      "id": "deep_fingering",
+      "name": "Deep Fingering",
+      "description": "Fingers past usual depth; curl and press; belly tenses.",
+      "patterns": [
+        {
+          "id": "deep_finger",
+          "summary_action": "Two or three fingers push deep past the usual depth and curl; her belly tenses; hips lift.",
+          "shot1": "Two or three fingers push into her vagina past the usual depth. Wet coat reaches the knuckles and beyond.",
+          "shot2": "Fingers curl and press a specific deep spot. Her belly tenses. Hips lift off the surface. Wetter sound on each motion.",
+          "dialogue_shot1": "",
+          "dialogue_shot2": "奥…指…っ",
+          "overall_soundscape": "Deep wet motion, her broken moans.",
+          "camera_lock": "Hand buried, her reacting torso.",
+          "negative": "shallow only, cut"
+        }
+      ]
+    },
+    {
+      "id": "rimjob_deep",
+      "name": "Deep Rimjob",
+      "description": "Tongue presses into anal entrance after circling; she pushes back.",
+      "patterns": [
+        {
+          "id": "deep_rim",
+          "summary_action": "After circling, the tongue presses firmly into her anal entrance; she pushes her ass back toward the mouth.",
+          "shot1": "Cheeks spread wide. Tongue circles the anus thoroughly, then the tip presses firmly at the center of the entrance.",
+          "shot2": "Tongue pushes more insistently into the entrance. She pushes her ass back toward the mouth. Deeper wet sounds. Breath against her skin.",
+          "dialogue_shot1": "",
+          "dialogue_shot2": "中まで…恥ずかしい…っ",
+          "overall_soundscape": "Deeper wet tongue sounds, her muffled moans.",
+          "camera_lock": "Close on spread cheeks and tongue at the entrance.",
+          "negative": "penis, cut"
+        }
+      ]
+    }
+  ]
+}
