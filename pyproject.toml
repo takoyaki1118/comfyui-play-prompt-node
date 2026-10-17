@@ -1,0 +1,9 @@
+[project]
+name = "comfyui-play-prompt-node"
+version = "0.1.0"
+description = "Play content prompt output node for ComfyUI – Shot1/Shot2 with select/random modes"
+license = "MIT"
+requires-python = ">=3.10"
+
+[project.urls]
+Repository = ""
