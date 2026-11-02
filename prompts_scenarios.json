@@ -1,6 +1,6 @@
 {
-  "version": "3.2",
-  "description": "Scenario plays. video-action-prompt standard. Location as action constraint only.",
+  "version": "4.0",
+  "description": "Scenario plays. video-action-prompt standard v2. Location as action constraint only. Agent subjects, cause-effect, relative tempo.",
   "plays": [
     {
       "id": "office_seduction",
@@ -16,7 +16,7 @@
           "dialogue_shot2": "んっ…だめなのに…",
           "overall_soundscape": "Quiet office hum, wet thrusts, desk creak, suppressed moans.",
           "camera_lock": "Desk and both bodies; office cues stay in frame.",
-          "negative": "bedroom, outdoor, cut, open door with crowd"
+          "negative": "bedroom, outdoor, cut, open door with crowd, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -34,7 +34,7 @@
           "dialogue_shot2": "教室で…っ",
           "overall_soundscape": "Quiet classroom, wet thrusts, desk scrape, suppressed voice.",
           "camera_lock": "Classroom desks and the pair; chalkboard cue.",
-          "negative": "other people present, underage appearance, cut"
+          "negative": "other people present, underage appearance, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -52,7 +52,7 @@
           "dialogue_shot2": "んっ…あっ…",
           "overall_soundscape": "Quiet clinic, paper crinkle, wet thrusts, moans.",
           "camera_lock": "Exam table and pair in frame.",
-          "negative": "home bedroom, cut"
+          "negative": "home bedroom, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -70,7 +70,7 @@
           "dialogue_shot2": "んっ…誰か…",
           "overall_soundscape": "Tile echo, wet thrusts, suppressed moans, distant restroom ambience.",
           "camera_lock": "Stall or sink and pair; door edge optional.",
-          "negative": "open public floor with crowd watching, cut"
+          "negative": "open public floor with crowd watching, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -88,7 +88,7 @@
           "dialogue_shot2": "やめて…人いる…っ",
           "overall_soundscape": "Train rumble, fabric, suppressed wet motion, her held breath.",
           "camera_lock": "Torso and hips of the pair; strap or rail; crowd as soft background.",
-          "negative": "empty private car, full undress, cut"
+          "negative": "empty private car, full undress, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -106,7 +106,7 @@
           "dialogue_shot2": "んっ…あっ…",
           "overall_soundscape": "Quiet school, desk scrape, wet thrusts, moans.",
           "camera_lock": "Desk, chalkboard cue, pair.",
-          "negative": "students present, underage, cut"
+          "negative": "students present, underage, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -124,7 +124,7 @@
           "dialogue_shot2": "んぁっ…！",
           "overall_soundscape": "Wet thrusts, bed creak, loud moans allowed.",
           "camera_lock": "Bed and pair; room stays love-hotel interior.",
-          "negative": "outdoor, cut"
+          "negative": "outdoor, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -142,7 +142,7 @@
           "dialogue_shot2": "",
           "overall_soundscape": "Water splash, wet skin, moans.",
           "camera_lock": "Tub, waterline, and pair in frame.",
-          "negative": "dry bedroom, cut"
+          "negative": "dry bedroom, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -160,7 +160,7 @@
           "dialogue_shot2": "んっ…滑る…あっ…",
           "overall_soundscape": "Shower spray, wet thrusts, moans.",
           "camera_lock": "Shower wall, water, pair standing.",
-          "negative": "dry room, cut"
+          "negative": "dry room, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -178,7 +178,7 @@
           "dialogue_shot2": "狭い…あっ…",
           "overall_soundscape": "Seat creak, wet thrusts, muffled moans, quiet outside.",
           "camera_lock": "Car interior locked; pair and seats in frame.",
-          "negative": "outdoor full standing, cut"
+          "negative": "outdoor full standing, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -196,7 +196,7 @@
           "dialogue_shot2": "砂が…んっ…",
           "overall_soundscape": "Surf distant, wet thrusts, wind, moans.",
           "camera_lock": "Towel, pair, beach background.",
-          "negative": "indoor bedroom, cut"
+          "negative": "indoor bedroom, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -214,7 +214,7 @@
           "dialogue_shot2": "水の中…んっ…",
           "overall_soundscape": "Water splash and drip, wet thrusts, moans.",
           "camera_lock": "Pool edge and pair in frame.",
-          "negative": "dry indoor only, cut"
+          "negative": "dry indoor only, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -232,7 +232,7 @@
           "dialogue_shot2": "んっ…誰かに聞こえる…",
           "overall_soundscape": "Fabric rustle, wet thrusts, loud breath in small space, distant outdoor night.",
           "camera_lock": "Tent interior only; pair and fabric walls.",
-          "negative": "open outdoor full view, cut"
+          "negative": "open outdoor full view, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -250,7 +250,7 @@
           "dialogue_shot2": "ん…いいきもち…",
           "overall_soundscape": "Quiet room, soft wet motion, her flat soft voice, his calm breath.",
           "camera_lock": "Her vacant face and the contact in frame.",
-          "negative": "fully alert resistance play only, cut"
+          "negative": "fully alert resistance play only, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -268,7 +268,7 @@
           "dialogue_shot2": "ん…やだ…まだ寝て…",
           "overall_soundscape": "Quiet night room, careful wet motion, soft half-asleep sounds.",
           "camera_lock": "Bed, her closed or fluttering eyes, hip contact.",
-          "negative": "fully awake energetic sex, cut"
+          "negative": "fully awake energetic sex, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -286,7 +286,7 @@
           "dialogue_shot2": "あっ…イッ…ちゃう…",
           "overall_soundscape": "Wet thrusts, conflicted moans, quiet room.",
           "camera_lock": "Her face and the sex in frame; optional phone/ring at edge.",
-          "negative": "happy pure romance only, cut"
+          "negative": "happy pure romance only, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -304,7 +304,7 @@
           "dialogue_shot2": "んっ…はやく…終わって…",
           "overall_soundscape": "Quiet, wet thrusts, her reluctant breath and broken moans.",
           "camera_lock": "Leverage object optional; her tense face and contact.",
-          "negative": "enthusiastic free mutual romance only, cut"
+          "negative": "enthusiastic free mutual romance only, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -322,7 +322,7 @@
           "dialogue_shot2": "んっ…お役に…",
           "overall_soundscape": "Wet oral or wet riding, fabric of the outfit, soft service voice.",
           "camera_lock": "Outfit cues and the act in frame.",
-          "negative": "modern casual only, cut"
+          "negative": "modern casual only, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -340,7 +340,7 @@
           "dialogue_shot2": "んっ…誰か来る…",
           "overall_soundscape": "Hospital hum, wet thrusts, suppressed voice, distant footsteps.",
           "camera_lock": "Uniform cue, dim hospital, pair.",
-          "negative": "bright day clinic full of staff, cut"
+          "negative": "bright day clinic full of staff, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -358,7 +358,7 @@
           "dialogue_shot2": "んっ…あっ…",
           "overall_soundscape": "Quiet office, wet thrusts, desk, suppressed moans.",
           "camera_lock": "Desk, blinds, pair.",
-          "negative": "home, cut"
+          "negative": "home, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -376,7 +376,7 @@
           "dialogue_shot2": "んっ…はやく…",
           "overall_soundscape": "Outdoor air, wet contact, her nervous breath.",
           "camera_lock": "Exposure point and pair; environment readable as public.",
-          "negative": "fully private locked room only, cut"
+          "negative": "fully private locked room only, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -394,7 +394,7 @@
           "dialogue_shot2": "んっ…誰の…かわからない…",
           "overall_soundscape": "Wet oral, soft partition creak, her muffled sounds.",
           "camera_lock": "Hole, shaft, and her mouth/hand only — no male face.",
-          "negative": "face-to-face full body couple, cut"
+          "negative": "face-to-face full body couple, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     }

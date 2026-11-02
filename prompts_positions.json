@@ -1,6 +1,6 @@
 {
-  "version": "3.2",
-  "description": "Sex positions. video-action-prompt standard: contact path, deformation, fluid, sound, camera_lock, negative.",
+  "version": "4.0",
+  "description": "Sex positions. video-action-prompt standard v2: contact path, deformation, fluid, sound, camera_lock, negative. Agent subjects, cause-effect, relative tempo.",
   "plays": [
     {
       "id": "missionary",
@@ -16,7 +16,7 @@
           "dialogue_shot2": "んっ…あっ…",
           "overall_soundscape": "Long wet drag on withdraw, soft flesh impact at full seat, breath and moans.",
           "camera_lock": "Medium face-to-face; hips and faces stay in frame. Same bed.",
-          "negative": "doggy, standing, cut, shaft always hidden, zoom off hips"
+          "negative": "doggy, standing, cut, shaft always hidden, zoom off hips, photorealistic, realistic skin texture, pores"
         },
         {
           "id": "missionary_ahegao",
@@ -27,7 +27,7 @@
           "dialogue_shot2": "ひぁ…っ…",
           "overall_soundscape": "Wet deep thrusts, body impact, rising broken moans.",
           "camera_lock": "POV from above; face and hips in the same frame.",
-          "negative": "closed composed face only, no ahegao, cut, new angle"
+          "negative": "closed composed face only, no ahegao, cut, new angle, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -39,13 +39,13 @@
         {
           "id": "legs_up",
           "summary_action": "Missionary with her legs raised high; each deep stroke folds her hips higher toward him.",
-          "shot1": "A woman on her back with both legs raised, ankles near {male}'s shoulders. His erect penis is buried in her vagina to the base.",
+          "shot1": "A woman on her back with both legs raised, ankles near {male}'s shoulders. He drives his hips, pushing his erect penis is buried in her vagina to the base.",
           "shot2": "He drives deep strokes. Her raised legs press against his body; each full seat folds her hips higher and lifts her ass slightly off the bed. Fluid runs toward the sheets.",
           "dialogue_shot1": "",
           "dialogue_shot2": "深…いっ…",
           "overall_soundscape": "Wet deep strokes, soft lift of her ass on seat, caught breath and moans.",
           "camera_lock": "Side or three-quarter; raised legs and point of entry stay in frame.",
-          "negative": "legs flat on bed, shallow only, cut"
+          "negative": "legs flat on bed, shallow only, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -57,13 +57,13 @@
         {
           "id": "mating_press_fold",
           "summary_action": "{male} folds her knees to her chest in a mating press and drives deep downward thrusts with his weight on her.",
-          "shot1": "A woman on her back. {male} pushes her knees toward her chest and shoulders, pinning her open. His erect penis is fully inside. His torso presses down on her folded legs.",
+          "shot1": "A woman on her back. {male} pushes her knees toward her chest and shoulders, pinning her open. He drives his hips, pushing his erect penis is fully inside. His torso presses down on her folded legs.",
           "shot2": "He thrusts downward with his body weight. Each stroke drives deep; her ass is pressed hard into the mattress and cannot lift. She cannot close her legs. Face strained under the fold. Fluid squeezes out around the base on the hardest seats.",
           "dialogue_shot1": "",
           "dialogue_shot2": "やっ…動けない…あっ…！",
           "overall_soundscape": "Heavy wet downward thrusts, mattress give, strained breath and broken moans.",
           "camera_lock": "High angle or side; folded legs, his torso, and hips in frame.",
-          "negative": "legs free, gentle pace, cut, standing"
+          "negative": "legs free, gentle pace, cut, standing, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -81,7 +81,7 @@
           "dialogue_shot2": "奥…当たる…",
           "overall_soundscape": "Long wet drag on withdraw, deep seat impact, caught breath.",
           "camera_lock": "Close on hips; full shaft path visible on withdraw.",
-          "negative": "short tip-only strokes, cut"
+          "negative": "short tip-only strokes, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -99,7 +99,7 @@
           "dialogue_shot2": "んっ…はぁ…",
           "overall_soundscape": "Wet drop impacts, bounce of flesh, moans synced to drops.",
           "camera_lock": "Medium from slightly low; her torso, bouncing breasts, and his body under her.",
-          "negative": "prone bone, man on top, cut, shaft always hidden"
+          "negative": "prone bone, man on top, cut, shaft always hidden, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -117,7 +117,7 @@
           "dialogue_shot2": "あっ…んっ…",
           "overall_soundscape": "Wet impacts, soft ass jiggle on seat, moans.",
           "camera_lock": "Rear three-quarter on her back and ass; shaft path visible on the rise.",
-          "negative": "facing him, cut, shaft never visible"
+          "negative": "facing him, cut, shaft never visible, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -129,13 +129,13 @@
         {
           "id": "doggy_basic",
           "summary_action": "Doggy: {male} thrusts from behind full in then nearly out; each forward thrust smacks her ass and makes it ripple.",
-          "shot1": "A woman on all fours. {male} behind her holds her hips. His erect penis slides fully into her vagina then nearly out so wet shaft shows.",
+          "shot1": "A woman on all fours. {male} behind her holds her hips. He drives his hips, pushing his erect penis slides fully into her vagina then nearly out so wet shaft shows.",
           "shot2": "Steady hard rhythm. On every forward thrust his pelvis smacks her ass; buttocks jiggle and ripple. Fluid drips onto the shaft and toward the bed.",
           "dialogue_shot1": "",
           "dialogue_shot2": "あっ…んっ…",
           "overall_soundscape": "Wet thrusts, pelvis-ass smack each forward stroke, moans.",
           "camera_lock": "Side or rear; hips and ass impact stay in frame.",
-          "negative": "missionary, soft only, cut, no impact on ass"
+          "negative": "missionary, soft only, cut, no impact on ass, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -153,7 +153,7 @@
           "dialogue_shot2": "ふぐっ…んっ…",
           "overall_soundscape": "Muffled wet thrusts, mattress, compressed flesh, strained breath.",
           "camera_lock": "Side or high angle; his back, her pressed body, hip contact.",
-          "negative": "on all fours with knees up, standing, cut"
+          "negative": "on all fours with knees up, standing, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -171,7 +171,7 @@
           "dialogue_shot2": "あっ…立ってるのに…",
           "overall_soundscape": "Wet thrusts, foot scuffs, soft breast sway, moans.",
           "camera_lock": "Side view; both standing, hip contact and swinging breasts in frame.",
-          "negative": "lying down, cut, feet leaving the floor"
+          "negative": "lying down, cut, feet leaving the floor, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -183,13 +183,13 @@
         {
           "id": "spoon",
           "summary_action": "Spooning: both on their sides; {male} thrusts from behind along her back with tight full-body contact.",
-          "shot1": "A woman and {male} lie on their sides, her back against his chest. His erect penis is inside her vagina from behind. One arm holds her waist or breast.",
+          "shot1": "A woman and {male} lie on their sides, her back against his chest. He drives his hips, pushing his erect penis is inside her vagina from behind. One arm holds her waist or breast.",
           "shot2": "He thrusts with medium strokes along her body. Her top leg lifts slightly for depth. Tight contact along their backs. Fluid on her inner thigh.",
           "dialogue_shot1": "",
           "dialogue_shot2": "ん…やさしく…あっ…",
           "overall_soundscape": "Quiet wet strokes, close breath, soft moans.",
           "camera_lock": "Side view along the bed; both bodies spooned, hip motion visible.",
-          "negative": "facing each other only, vigorous standing, cut"
+          "negative": "facing each other only, vigorous standing, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -207,7 +207,7 @@
           "dialogue_shot2": "顔…近い…んっ…",
           "overall_soundscape": "Soft wet rocking, breath, close moans.",
           "camera_lock": "Medium face-to-face seated; hips and faces in frame.",
-          "negative": "lying missionary, doggy, cut"
+          "negative": "lying missionary, doggy, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -225,7 +225,7 @@
           "dialogue_shot2": "私が…動く…っ",
           "overall_soundscape": "Hard wet drops, breath, moans on impact.",
           "camera_lock": "Medium; her squat stance and his body under her.",
-          "negative": "flat knees-down cowgirl only, cut"
+          "negative": "flat knees-down cowgirl only, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -243,7 +243,7 @@
           "dialogue_shot2": "まっ…て…あっ…！",
           "overall_soundscape": "Downward wet impacts, strained inverted breath, moans.",
           "camera_lock": "Side view of the inverted fold and downward thrust path.",
-          "negative": "flat missionary, gentle only, cut"
+          "negative": "flat missionary, gentle only, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -255,13 +255,13 @@
         {
           "id": "fn_sex",
           "summary_action": "Full nelson: {male} locks arms under her knees and behind her neck; she is held open while he thrusts.",
-          "shot1": "{male} holds a woman with arms under her knees and behind her neck, legs forced open. His erect penis is buried in her. She is lifted or pressed to a surface.",
+          "shot1": "{male} holds a woman with arms under her knees and behind her neck, legs forced open. He drives his hips, pushing his erect penis is buried in her. She is lifted or pressed to a surface.",
           "shot2": "He thrusts while the lock holds. Her body cannot close. Toes curl. Face tight. Fluid on the shaft. Same arm lock throughout.",
           "dialogue_shot1": "",
           "dialogue_shot2": "動けない…やっ…あっ…！",
           "overall_soundscape": "Wet thrusts under full hold, strained breath, moans.",
           "camera_lock": "Angle showing the arm lock, open legs, and point of entry.",
-          "negative": "free arms, closed legs, cut"
+          "negative": "free arms, closed legs, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -279,7 +279,7 @@
           "dialogue_shot2": "手が…っ…あっ…",
           "overall_soundscape": "Wet thrusts, arm strain breath, hanging breast motion, moans.",
           "camera_lock": "Side view; braced arms, lifted legs, hip contact.",
-          "negative": "knees on the ground, cut"
+          "negative": "knees on the ground, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -297,7 +297,7 @@
           "dialogue_shot2": "んっ…あっ…",
           "overall_soundscape": "Wet standing thrusts, soft surface creak, moans.",
           "camera_lock": "Side or front; edge of surface, open legs, standing hips.",
-          "negative": "both fully on the bed interior, cut"
+          "negative": "both fully on the bed interior, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -315,7 +315,7 @@
           "dialogue_shot2": "あっ…あっ…はあっ…",
           "overall_soundscape": "Wet upward thrusts, skin slap on seat, heavy breath and moans.",
           "camera_lock": "Medium of the standing pair; support hands and hips in frame.",
-          "negative": "lying down, legs unlocked, cut"
+          "negative": "lying down, legs unlocked, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -333,7 +333,7 @@
           "dialogue_shot2": "腰が…っ…あっ…",
           "overall_soundscape": "Wet thrusts, strain breath of the hold, soft moans.",
           "camera_lock": "Side view of the full arch and hip contact.",
-          "negative": "flat on back, cut"
+          "negative": "flat on back, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -351,7 +351,7 @@
           "dialogue_shot2": "好き…んっ…",
           "overall_soundscape": "Quiet wet rocking, close breath, soft moans.",
           "camera_lock": "Close medium; faces and joined hips.",
-          "negative": "reverse facing away, large bounce only, cut"
+          "negative": "reverse facing away, large bounce only, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -369,7 +369,7 @@
           "dialogue_shot2": "後ろから…んっ…",
           "overall_soundscape": "Wet thrusts, skin, breath near her ear, moans.",
           "camera_lock": "Side view of the embrace; arms and hips in frame.",
-          "negative": "facing each other only, cut"
+          "negative": "facing each other only, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -387,7 +387,7 @@
           "dialogue_shot2": "お尻…いっ…あっ…",
           "overall_soundscape": "Tight wet anal strokes, careful then fuller breath, moans.",
           "camera_lock": "Medium; hips and her face in frame.",
-          "negative": "vaginal only, doggy only, dry force without wet cue, cut"
+          "negative": "vaginal only, doggy only, dry force without wet cue, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -405,7 +405,7 @@
           "dialogue_shot2": "んっ…来て…",
           "overall_soundscape": "Wet entry and thrusts, arm brace, moans.",
           "camera_lock": "Side or rear three-quarter; presented hips and contact in frame.",
-          "negative": "lying flat, cut"
+          "negative": "lying flat, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -423,7 +423,7 @@
           "dialogue_shot2": "机が…冷たい…あっ…",
           "overall_soundscape": "Wet thrusts, table contact, hip slap, moans.",
           "camera_lock": "Side view; table surface, her bent torso, his hips.",
-          "negative": "on bed only, cut"
+          "negative": "on bed only, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -441,7 +441,7 @@
           "dialogue_shot2": "壁…っ…あっ…！",
           "overall_soundscape": "Wet thrusts, body against wall, moans.",
           "camera_lock": "Side view along the wall; contact points in frame.",
-          "negative": "open room center only, cut"
+          "negative": "open room center only, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -459,7 +459,7 @@
           "dialogue_shot2": "机の上で…んっ…",
           "overall_soundscape": "Wet thrusts, desk creak, moans.",
           "camera_lock": "Side or three-quarter; desk surface and hips.",
-          "negative": "soft bed only, cut"
+          "negative": "soft bed only, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -471,13 +471,13 @@
         {
           "id": "carry",
           "summary_action": "Carry fuck: {male} lifts her so feet leave the ground and thrusts while supporting her thighs or ass.",
-          "shot1": "{male} lifts a woman so her feet leave the ground, supporting her thighs or ass. His erect penis is fully inside. She clings to his shoulders.",
+          "shot1": "{male} lifts a woman so her feet leave the ground, supporting her thighs or ass. He drives his hips, pushing his erect penis is fully inside. She clings to his shoulders.",
           "shot2": "He thrusts while holding her up. Her body rises on the out-stroke and drops to full seat on the in-stroke. Arms tight around him. Fluid between them.",
           "dialogue_shot1": "",
           "dialogue_shot2": "抱えて…あっ…！",
           "overall_soundscape": "Wet thrusts, his effort breath, her moans.",
           "camera_lock": "Medium full of both; feet clearly off the ground.",
-          "negative": "feet on floor, cut"
+          "negative": "feet on floor, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -495,7 +495,7 @@
           "dialogue_shot2": "足…上げたまま…あっ…",
           "overall_soundscape": "Wet thrusts, balance scuffs, moans.",
           "camera_lock": "Full or three-quarter showing the raised leg and support foot.",
-          "negative": "both legs down equally, cut"
+          "negative": "both legs down equally, cut, photorealistic, realistic skin texture, pores"
         }
       ]
     }
