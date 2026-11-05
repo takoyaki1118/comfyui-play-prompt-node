@@ -1,6 +1,6 @@
 {
-  "version": "4.1",
-  "description": "Action-focused play prompts per video-action-prompt skill v2 + user reinforcement. Forcefully erect penis when visible. Cum details (amount, interval, landing) in Shot2 preferred. BJ: pull-off then cum or deep hold oral creampie + show mouth. Violent directional hip motion. Japanese dialogue 10-20 chars. Character-reference safe. camera_lock and negative included.",
+  "version": "5.0",
+  "description": "Core plays. POV/angle + spatial relation + climax timing explicit. Forcefully erect when visible. Cum: when/in-out/pulses/landing in Shot2. Japanese dialogue ~10-20 chars. Character-ref safe negatives.",
   "male_types": [
     {
       "id": "average",
@@ -67,18 +67,18 @@
     {
       "id": "car_cheek_bj",
       "name": "Car Side-Mouth Blowjob",
-      "description": "Side-of-mouth penetration in a car; cheek bulges outward on every thrust.",
+      "description": "Side-of-mouth penetration in a car; cheek bulges on every thrust.",
       "patterns": [
         {
           "id": "cheek_bulge",
-          "summary_action": "In a car, {male} drives his hips forward and back, pushing his forcefully erect penis sideways into the side of a woman's mouth; on every thrust her cheek visibly bulges and stretches outward.",
-          "shot1": "Inside a car, a woman sits facing the open door. {male} stands outside. He grips her head lightly and drives his hips forward, pressing the tip of his forcefully erect penis against the side of her face near her mouth. She looks up toward him. Arms stay still. Breasts hang freely.",
-          "shot2": "He drives his hips vigorously back and forth, pushing his forcefully erect penis sideways deep into the side of her mouth and pressing hard against the inside of her cheek. On every forward thrust the cheek visibly bulges and stretches outward; on withdraw it retracts. Wet saliva coats the shaft near her lips. She keeps looking up.",
+          "summary_action": "Side view in a car: {male} stands outside the open door; she sits inside facing him; he drives his hips forward and back, pushing his forcefully erect penis sideways into the side of her mouth so her cheek bulges on every thrust. No climax.",
+          "shot1": "Side view, medium close on her face and the open car door. She sits inside the car facing the open door. {male} stands outside the door, slightly above her. He grips her head lightly with one hand. He drives his hips forward, pressing the tip of his forcefully erect penis against the side of her face near the corner of her mouth. She looks up toward him. Arms stay still. Breasts hang freely. Same car seat and window. No climax yet.",
+          "shot2": "Same side view and framing. He drives his hips vigorously forward and back. His forcefully erect penis pushes sideways deep into the side of her mouth and presses hard against the inside of her cheek. On every forward thrust the outer cheek visibly bulges and stretches outward; on withdraw it retracts. Wet saliva coats the shaft near her lips. She keeps looking up. He does not climax. Same spatial relation: he outside, she seated inside, head held toward him.",
           "dialogue_shot1": "",
           "dialogue_shot2": "んっ…ほっぺた、張ってる…",
-          "overall_soundscape": "Quiet car interior, door latch, then wet oral sounds and breath only. No speech.",
-          "camera_lock": "Her face and the bulging cheek stay in frame. No zoom. Same car seat and window.",
-          "negative": "centered blowjob, arm movement, window rolling down, speech, zoom, cut, new location, both hands moving, photorealistic, realistic skin texture, pores"
+          "overall_soundscape": "Quiet car interior, door latch, then wet oral sounds and breath only. No speech from him.",
+          "camera_lock": "Her face and the bulging cheek stay in frame. No zoom. Same car seat and window. He remains outside the door.",
+          "negative": "centered frontal blowjob, arm movement, window rolling down, climax, zoom, cut, new location, both hands moving, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -89,25 +89,25 @@
       "patterns": [
         {
           "id": "kitchen_throat",
-          "summary_action": "{male} grips a woman's head with both hands and drives his hips forward and back, pushing his forcefully erect penis full tip-to-base into her throat on every stroke; spit coats the shaft and drips from her lips.",
-          "shot1": "A woman kneels with her mouth open. {male} places both hands firmly on her head. He drives his hips forward, pressing the tip of his forcefully erect penis against her lips.",
-          "shot2": "He drives his hips vigorously back and forth, pushing his forcefully erect penis the full length into her throat on every stroke, tip to base, nose pressed toward his body. Lips sealed tight. Clear spit coats the shaft and drips from her lips. No shallow tip-only strokes.",
+          "summary_action": "Low medium angle: she kneels; {male} stands over her gripping her head with both hands; he drives full tip-to-base throat strokes with his forcefully erect penis. No climax.",
+          "shot1": "Medium low angle looking slightly up at her face. A woman kneels on the floor facing {male}'s hips. He stands over her and places both hands firmly on her head. He drives his hips forward, pressing the tip of his forcefully erect penis against her open lips. Kitchen background fixed. No climax yet.",
+          "shot2": "Same low medium angle. He drives his hips vigorously forward and back while both hands stay on her head. His forcefully erect penis takes the full length into her throat on every stroke, tip to base, her nose pressed toward his body. Lips sealed tight. Clear spit coats the shaft and drips from her lips. No shallow tip-only strokes. He does not climax. Same relation: she kneeling below, he standing above, hands locked on her head.",
           "dialogue_shot1": "喉、奥まで使って…",
           "dialogue_shot2": "んぐっ…はぁっ…",
-          "overall_soundscape": "Loud wet gulps on every full throat, wet sloppy suction, spit drip on shaft, muffled choke around the cock, male effort breath. No music.",
-          "camera_lock": "Medium low angle on her face, his hands, and the full shaft path. Kitchen background stays fixed.",
-          "negative": "shallow tip-only, chewing, biting, hands leaving her head, cut, zoom out to full body, new location, photorealistic, realistic skin texture, pores"
+          "overall_soundscape": "Loud wet gulps on every full throat, wet sloppy suction, spit drip on shaft, muffled choke, male effort breath. No music.",
+          "camera_lock": "Her face, his hands on her head, and the full shaft path stay in frame. Kitchen background stays fixed.",
+          "negative": "shallow tip-only, chewing, biting, hands leaving her head, climax, cut, zoom out to full body, new location, photorealistic, realistic skin texture, pores"
         },
         {
           "id": "aggressive_allfours_bj",
-          "summary_action": "Woman on all fours gives hungry rapid bobs, sharp pull-off with spit string, then whole-torso lunge back onto the forcefully erect penis.",
-          "shot1": "A woman on all fours drives her mouth onto {male}'s forcefully erect penis with rapid continuous hungry bobs. On each downstroke her lips smear existing saliva and leave a fresh wet coat. She looks up the shaft.",
-          "shot2": "She pulls off sharply; the forcefully erect penis plops from her mouth with a wet pop. A long elastic spit string hangs between her tongue tip and the glans. She lunges her whole torso forward again, taking him deep in one motion. Eyes glance up.",
+          "summary_action": "High angle: she on all fours; {male}'s forcefully erect penis in front of her face; rapid bobs, sharp pull-off with spit string, whole-torso lunge back on. No climax.",
+          "shot1": "High angle looking down. A woman on all fours, ass toward the back of the frame, face toward {male}'s hips at the lower part of the frame. She drives her mouth onto his forcefully erect penis with rapid continuous hungry bobs. On each downstroke her lips smear saliva and leave a fresh wet coat. She looks up the shaft. Hands plant on the floor. No climax yet.",
+          "shot2": "Same high angle. She pulls off sharply; the forcefully erect penis plops from her mouth with a wet pop. A long elastic spit string hangs between her tongue tip and the glans. She lunges her whole torso forward again, taking him deep in one motion. Eyes glance up. He does not climax. Same relation: she on all fours below, shaft in front of her face, hands on the floor.",
           "dialogue_shot1": "",
           "dialogue_shot2": "んっ…はぁ…もっと…",
-          "overall_soundscape": "Wet lip seal on hungry bobs, heavy saliva slurps, sticky unseal and wet pop on pull-off, short cry on unseal, moans, drip ticks. No music.",
-          "camera_lock": "High angle looking down; her on all fours, face and shaft in frame, ass toward back of frame.",
-          "negative": "standing pose, gentle slow oral only, cut, zoom to face-only with no shaft, hands leaving the floor during lunge, photorealistic, realistic skin texture, pores"
+          "overall_soundscape": "Wet lip seal on hungry bobs, heavy saliva slurps, sticky unseal and wet pop on pull-off, short cry, moans, drip ticks. No music.",
+          "camera_lock": "High angle; her on all fours, face and shaft in frame, ass toward back of frame.",
+          "negative": "standing pose, gentle slow oral only, climax, cut, zoom to face-only with no shaft, hands leaving the floor during lunge, photorealistic, realistic skin texture, pores"
         }
       ]
     },
@@ -118,209 +118,208 @@
       "patterns": [
         {
           "id": "tongue_drag_bury",
-          "summary_action": "Slow flat tongue drag from base to tip of a forcefully erect penis with snapping saliva strings, then a long gentle bury past mid-shaft and a sticky upstroke.",
-          "shot1": "A woman holds {male}'s forcefully erect penis near the base. Her tongue is extended and dripping clear saliva near the glans. She starts a slow long flat drag from the base up the underside to the tip. Thick clear saliva strings stretch and snap from her tongue onto the shaft.",
-          "shot2": "She opens wide and sinks in a long gentle bury past mid-shaft; lips sealed, cheeks lightly hollowed, a soft mmm vibrating through sealed lips. On the upstroke her lips drag slowly to the head and paint an even saliva sheet. A long elastic spit string stretches from her lower lip to the wet glans. She holds the tip just inside her lips for a beat.",
+          "summary_action": "Close portrait: she holds his forcefully erect penis; slow tongue drag with saliva strings, then long gentle bury and sticky upstroke. No climax.",
+          "shot1": "Close portrait on mouth, tongue, her hand on the shaft, and the glans. She holds {male}'s forcefully erect penis near the base with one hand. Her tongue is extended and dripping clear saliva near the glans. She starts a slow long flat drag from the base up the underside to the tip. Thick clear saliva strings stretch and snap from her tongue onto the shaft. No climax yet.",
+          "shot2": "Same close framing. She opens wide and sinks in a long gentle bury past mid-shaft; lips sealed, cheeks lightly hollowed, a soft mmm vibrating through sealed lips. On the upstroke her lips drag slowly to the head and paint an even saliva sheet. A long elastic spit string stretches from her lower lip to the wet glans. She holds the tip just inside her lips for a beat. He does not climax. Same relation: her hand on the base, face close to the shaft.",
           "dialogue_shot1": "",
           "dialogue_shot2": "気持ちいい…？ どう？",
-          "overall_soundscape": "Long wet syrupy tongue drag with soft string-snaps, heavy saliva slurp on bury, sticky deliberate lip drag on upstroke, soft suction pop on ease-off, soft content breath. No music.",
-          "camera_lock": "Close portrait on mouth, tongue, hand on shaft, and glans. Slow lateral drift only; face and shaft stay in frame.",
-          "negative": "fast facefuck, dry shaft, hands off the cock, cut, wide shot, speech during the bury, photorealistic, realistic skin texture, pores"
+          "overall_soundscape": "Long wet syrupy tongue drag with soft string-snaps, heavy saliva slurp on bury, sticky lip drag on upstroke, soft suction pop, soft content breath. No music.",
+          "camera_lock": "Close portrait on mouth, tongue, hand on shaft, and glans. Face and shaft stay in frame.",
+          "negative": "fast facefuck, dry shaft, hands off the cock, climax, cut, wide shot, speech during the bury, photorealistic, realistic skin texture, pores"
         }
       ]
     },
     {
       "id": "handjob_cum",
       "name": "Handjob Cum",
-      "description": "Tight-fist slow strokes, then leak, fast strokes, and ropes of cum into the air.",
+      "description": "Tight-fist strokes then leak, fast strokes, ropes of cum into the air. Climax only in Shot2.",
       "patterns": [
         {
           "id": "hj_leak_shoot",
-          "summary_action": "A woman strokes {male}'s forcefully erect penis with a tight fist; cum leaks down the shaft, then powerful ropes shoot into the air at short intervals.",
-          "shot1": "Low-angle male POV. A woman grips {male}'s forcefully erect penis with one tight closed fist and strokes it slowly up and down. She smirks and looks toward the camera. The shaft stays vertical.",
-          "shot2": "White cum begins leaking from the tip, runs down the shaft over her fingers, and pools at the base. She strokes very fast. The penis then shoots three to four powerful thick ropes of cum upward into the air at short intervals. Shaft remains erect and vertical.",
-          "dialogue_shot1": "はぁ？ またイキそうなの？",
+          "summary_action": "Low-angle male POV: she strokes his forcefully erect vertical penis; climax only in Shot2 with leak then three to four ropes into the air.",
+          "shot1": "Low-angle male POV looking down along the vertical shaft. A woman grips {male}'s forcefully erect penis with one tight closed fist and strokes it slowly up and down. She smirks and looks toward the camera. The shaft stays vertical. Her other hand is out of the way. No climax yet — only steady slow strokes and a possible clear bead at the tip.",
+          "shot2": "Same low-angle male POV. White cum begins leaking from the tip, runs down the shaft over her fingers, and pools at the base. She strokes very fast. Only then the penis shoots three to four powerful thick ropes of cum upward into the air at short intervals. Shaft remains forcefully erect and vertical. After the last rope he stays still while she holds the shaft.",
+          "dialogue_shot1": "はぁ？ またイキそう？",
           "dialogue_shot2": "もう、出していいよ…",
           "overall_soundscape": "Loud wet handjob sounds, cum dripping and bubbling, sharp wet pulses on each rope, breath. No music.",
           "camera_lock": "Low angle on fist, vertical shaft, and her face looking at lens. Shaft stays vertical in frame.",
-          "negative": "mouth on penis, both hands, soft loose grip, cum only as a small bead, cut, zoom away from the shaft, photorealistic, realistic skin texture, pores"
+          "negative": "mouth on penis, both hands, soft loose grip, cum only as a small bead, climax in shot1, cut, zoom away from the shaft, photorealistic, realistic skin texture, pores"
         }
       ]
     },
     {
       "id": "paizuri",
       "name": "Paizuri / Titfuck",
-      "description": "Breasts squeezed around the shaft with full disappear-and-emerge strokes; optional facial cum.",
+      "description": "Breasts squeezed around the shaft; disappear-and-emerge strokes; optional facial cum in Shot2 only.",
       "patterns": [
         {
           "id": "paizuri_slide",
-          "summary_action": "A woman squeezes her breasts around {male}'s forcefully erect penis and slides them so the shaft disappears then emerges each cycle.",
-          "shot1": "A woman wraps her breasts around {male}'s forcefully erect penis and squeezes them together hard. The shaft sits in the tight valley of her cleavage.",
-          "shot2": "She slides her breasts vigorously up and down the shaft. On the down stroke the penis disappears completely between her breasts; on the up stroke it emerges fully. Soft flesh compresses and shifts around the shaft each cycle.",
+          "summary_action": "Medium close on cleavage: she squeezes breasts around his forcefully erect penis and slides so the shaft disappears then emerges each cycle. No climax.",
+          "shot1": "Medium close-up on her cleavage, the shaft path, and her hands. A woman wraps her breasts around {male}'s forcefully erect penis and squeezes them together hard. He stands or sits in front of her; she is below or in front of his hips. The shaft sits in the tight valley of her cleavage. No climax yet.",
+          "shot2": "Same framing. She slides her breasts vigorously up and down the shaft. On the down stroke the penis disappears completely between her breasts; on the up stroke it emerges fully. Soft flesh compresses and shifts around the shaft each cycle. He does not climax. Same relation: breasts locked around the shaft, her hands pressing from the sides.",
           "dialogue_shot1": "",
           "dialogue_shot2": "んっ…挟んでるよ…",
           "overall_soundscape": "Soft flesh sliding on skin, light breath. No music.",
-          "camera_lock": "Medium close-up on cleavage, shaft path, and her hands pressing the breasts together.",
-          "negative": "loose gap between breasts, oral only, cut, full body wide shot, hands leaving the breasts, photorealistic, realistic skin texture, pores"
+          "camera_lock": "Cleavage, shaft path, and her hands pressing the breasts stay in frame.",
+          "negative": "loose gap between breasts, oral only, climax, cut, full body wide shot, hands leaving the breasts, photorealistic, realistic skin texture, pores"
         },
         {
           "id": "titfuck_side_cum",
-          "name": "Titfuck Side Cum",
-          "summary_action": "Side-view titfuck with long strokes that ripple her breasts; then thick facial and chest cumshot in multiple pulses.",
-          "shot1": "From the side, a woman presses her breasts together around {male}'s thick forcefully erect penis. He drives his hips forward and back with long motions: the penis sinks until it disappears between her breasts, then pushes up and fully emerges. Exaggerated jiggle and dynamic bounce run through her flesh on each impact. Her hands rest on her collarbones.",
-          "shot2": "He climaxes. First a thick white rope shoots up and lands on her cheek. A second powerful jet hits her shoulder and neck. A third pulse spills thick globules onto her breasts. She grins and licks sticky cum from around her lips as his hip movement slows.",
+          "summary_action": "Side view titfuck with long strokes; climax only in Shot2 as multiple ropes land on cheek, shoulder, neck, breasts.",
+          "shot1": "Side view. A woman presses her breasts together around {male}'s thick forcefully erect penis. He is in front of her chest; his head stays out of frame. He drives his hips forward and back with long motions: the penis sinks until it disappears between her breasts, then pushes up and fully emerges. Exaggerated jiggle runs through her flesh on each impact. Her hands rest on her collarbones. No climax yet.",
+          "shot2": "Same side view. He reaches climax only now. First a thick white rope shoots up and lands on her cheek. A second powerful jet hits her shoulder and neck. A third pulse spills thick globules onto her breasts. She grins and licks sticky cum from around her lips as his hip movement slows and stops after the last pulse.",
           "dialogue_shot1": "",
           "dialogue_shot2": "んっ…あっ…出てる…",
           "overall_soundscape": "Flesh slide and soft impact on each thrust, aroused moans, male climax breath, wet splat of cum landing. No music.",
           "camera_lock": "Side view; breasts, shaft path, and her face stay in frame. His head stays out of frame.",
-          "negative": "frontal only, short tip-only strokes, no cum, cut, camera moving to full body, photorealistic, realistic skin texture, pores"
+          "negative": "frontal only, short tip-only strokes, climax in shot1, no cum, cut, camera moving to full body, photorealistic, realistic skin texture, pores"
         }
       ]
     },
     {
       "id": "doggy",
       "name": "Doggy Style",
-      "description": "Rear vaginal entry with pelvis-ass smack, ass ripple, optional alternating cheek slaps.",
+      "description": "Rear vaginal entry; pelvis-ass smack and ripple; optional slaps. No climax unless pattern says so.",
       "patterns": [
         {
           "id": "doggy_jiggle_slap",
-          "summary_action": "Doggy style: {male} drives his hips vigorously back and forth at a steady hard rhythm; each forward thrust smacks her ass and makes it ripple; occasional alternating hand slaps.",
-          "shot1": "A woman on all fours on a bed, facing away but turning her head toward the lens. {male} holds her hips. He drives his hips forward, pushing his forcefully erect penis into her vagina. Fluid drips onto the shaft and the bed. Her ass jiggles with each thrust.",
-          "shot2": "He drives his hips vigorously back and forth. On every forward thrust his pelvis smacks her ass hard; her buttocks jiggle and ripple. He occasionally slaps her right cheek then her left, alternating. She keeps turning her head for eye contact while breathing heavily. Fluid continues to drip.",
+          "summary_action": "Rear three-quarter or male POV: she on all fours; {male} behind with hands on her hips; vigorous full strokes; ass ripples on each smack. No climax.",
+          "shot1": "Rear three-quarter or male POV from behind. A woman on all fours on a bed, facing away but turning her head toward the lens. {male} kneels or stands behind her, both hands on her hips. He drives his hips forward, pushing his forcefully erect penis into her vagina until seated. Fluid drips onto the shaft and the bed. Her ass jiggles with the first thrusts. No climax yet.",
+          "shot2": "Same angle and spatial relation. He drives his hips vigorously forward and back. On every forward thrust his pelvis smacks her ass hard; her buttocks jiggle and ripple. He occasionally slaps her right cheek then her left, alternating, not constant. She keeps turning her head for eye contact while breathing heavily. Fluid continues to drip. He does not climax. Hands stay on her hips except during the occasional slap.",
           "dialogue_shot1": "",
           "dialogue_shot2": "あっ…んっ…はぁっ…",
-          "overall_soundscape": "Heavy breathing, sharp inhales, moans on each exhale, wet thrusting, loud ass-to-pelvis slap on each forward thrust, occasional hand slap on ass. No music.",
-          "camera_lock": "Male POV or rear three-quarter; hips, ass impact, and her turned face stay in frame.",
-          "negative": "missionary, constant nonstop spanking, soft slow only, cut, zoom off the point of contact, photorealistic, realistic skin texture, pores"
+          "overall_soundscape": "Heavy breathing, sharp inhales, moans on each exhale, wet thrusting, loud ass-to-pelvis slap on each forward thrust, occasional hand slap. No music.",
+          "camera_lock": "Hips, ass impact, and her turned face stay in frame. He remains behind her.",
+          "negative": "missionary, constant nonstop spanking, soft slow only, climax, cut, zoom off the point of contact, photorealistic, realistic skin texture, pores"
         },
         {
           "id": "bus_doggy_swing",
-          "summary_action": "Standing doggy on a bus; her breasts swing hard and repeatedly hit a seated woman who tries to block them.",
-          "shot1": "A nude woman bends over inside a bus. {male} stands behind her with his forcefully erect penis inserted in her pussy, holding her hips and driving his hips vigorously back and forth. Her large breasts swing back and forth hard with each impact against her ass.",
-          "shot2": "Close on a seated woman below them. The swinging breasts repeatedly hit the side of her head. She looks annoyed and raises a hand to block the impacts. The thrusting and swinging continue above.",
+          "summary_action": "Standing doggy on a bus: he behind her; breasts swing and hit a seated woman below. No climax.",
+          "shot1": "Medium shot inside a bus. A nude woman bends over in the aisle. {male} stands directly behind her, both hands on her hips, his forcefully erect penis inserted in her pussy. He drives his hips vigorously forward and back. Her large breasts swing hard with each impact against her ass. No climax yet.",
+          "shot2": "Same bus interior. Close on a seated woman below them. The swinging breasts repeatedly hit the side of her head. She looks annoyed and raises a hand to block the impacts. Above, the thrusting continues with the same standing-behind relation. He does not climax.",
           "dialogue_shot1": "んっ…あっ…深い…",
           "dialogue_shot2": "",
           "overall_soundscape": "Soft moans, rhythmic flesh impact of hips on ass, light breast-to-face hits, bus ambient. No music.",
-          "camera_lock": "Shot1 holds the standing pair; Shot2 holds the seated woman's face and the swinging breasts entering frame. Same bus interior.",
-          "negative": "lying pose, no breast swing, cut to unrelated location, speech from the seated woman, photorealistic, realistic skin texture, pores"
+          "camera_lock": "Shot1 holds the standing pair; Shot2 holds the seated woman's face and the swinging breasts entering frame. Same bus.",
+          "negative": "lying pose, no breast swing, climax, cut to unrelated location, speech from the seated woman, photorealistic, realistic skin texture, pores"
         }
       ]
     },
     {
       "id": "anal_high_angle",
       "name": "Anal High Angle",
-      "description": "High-angle anal with legs held open; full bury flattens her cheeks, withdraw leaves only the head inside.",
+      "description": "High-angle anal; legs held open; full bury flattens cheeks. No climax.",
       "patterns": [
         {
           "id": "anal_legs_held",
-          "summary_action": "High angle: she holds her calves open while {male} drives full bury-to-head anal strokes that flatten and jiggle her ass cheeks.",
-          "shot1": "High angle. A woman lies with both legs pulled high, her own hands locked on her calves, knuckles tight. {male} between her thighs spreads her ass with both hands. His thick forcefully erect penis is inside her ass with most of the shaft still showing.",
-          "shot2": "He drives his hips vigorously forward until the shaft disappears completely and his pelvis presses her ass flat and wide; cheeks jiggle and ripple on impact; breasts bounce. He draws back until only the head stays inside. The full bury-to-head cycle repeats. A thin wet drip tracks down her inner thigh. Her fists stay locked on her calves.",
+          "summary_action": "Static high angle: she on her back holding her calves; {male} between her thighs spreading her ass; full bury-to-head anal strokes. No climax.",
+          "shot1": "Static high-angle medium shot looking down. A woman lies on her back with both legs pulled high, her own hands locked on her calves, knuckles tight. {male} kneels between her thighs and spreads her ass with both hands. His thick forcefully erect penis is inside her ass with most of the shaft still showing. No climax yet.",
+          "shot2": "Same high angle. He drives his hips vigorously forward until the shaft disappears completely and his pelvis presses her ass flat and wide; cheeks jiggle and ripple on impact; breasts bounce. He draws back until only the head stays inside. The full bury-to-head cycle repeats. A thin wet drip tracks down her inner thigh. Her fists stay locked on her calves. He does not climax. Same relation: he between her raised legs, hands spreading her ass.",
           "dialogue_shot1": "うぐっ…んぁ…！",
           "dialogue_shot2": "はぁ…んっ…奥まで…",
           "overall_soundscape": "Wet sliding of the full length in and out of her ass, muffled wet flesh when pelvis presses her cheeks flat, short hand squeeze on her ass each bury, breathy moans, soft wet groans, short gasped pants. No music.",
-          "camera_lock": "Static high-angle medium shot; point of anal entry, her held legs, and his hands stay in frame. Slight shake only with impact.",
-          "negative": "vaginal entry, legs released, short tip-only strokes, cut, low angle, hands leaving her calves, photorealistic, realistic skin texture, pores"
+          "camera_lock": "Point of anal entry, her held legs, and his hands stay in frame. Slight shake only with impact.",
+          "negative": "vaginal entry, legs released, short tip-only strokes, climax, cut, low angle, hands leaving her calves, photorealistic, realistic skin texture, pores"
         }
       ]
     },
     {
       "id": "cowgirl",
       "name": "Cowgirl / Woman on Top",
-      "description": "Woman rides upright; breasts bounce; optional breast squeeze toward camera.",
+      "description": "She rides on top; breasts bounce; optional breast squeeze. No climax unless stated.",
       "patterns": [
         {
           "id": "cowgirl_bounce",
-          "summary_action": "Woman in upright cowgirl rides {male}; she drops hard so his forcefully erect penis slides fully in; breasts bounce on each drop; she then squeezes both breasts while looking at the camera.",
-          "shot1": "A woman straddles {male} lying on his back. She moves up and down so his forcefully erect penis slides fully in on the drop and nearly out at the top. Her large breasts bounce with each cycle. Mouth open.",
-          "shot2": "She rides faster with larger, more violent drops. She grabs both breasts with her hands and squeezes them while looking at the camera. Skin glistens. Wet impact of bodies continues on every drop.",
-          "dialogue_shot1": "ちょっと、雰囲気変えるね",
+          "summary_action": "Slightly low medium: she straddles him facing him; she drops hard onto his forcefully erect penis; breasts bounce; then she squeezes both breasts toward camera. No climax.",
+          "shot1": "Medium shot from slightly low. A woman straddles {male} who lies on his back. She faces him. She moves up and down so his forcefully erect penis slides fully in on the drop and nearly out at the top. Her large breasts bounce with each cycle. Mouth open. His hands may rest on her hips. No climax yet.",
+          "shot2": "Same angle. She rides faster with larger, more violent drops. She grabs both breasts with her hands and squeezes them while looking at the camera. Skin glistens. Wet impact continues on every drop. He does not climax. Same relation: she on top facing him, he on his back under her.",
+          "dialogue_shot1": "ちょっと雰囲気変えるね",
           "dialogue_shot2": "どう？ 見てて…",
           "overall_soundscape": "Continuous wet rhythmic skin slap on each drop, soft moans synced to movement, light bed creak. No music.",
-          "camera_lock": "Medium shot from slightly low; her torso, bouncing breasts, and his body under her stay in frame.",
-          "negative": "prone bone, man on top, cut, zoom to face only, clothes suddenly appearing, photorealistic, realistic skin texture, pores"
+          "camera_lock": "Her torso, bouncing breasts, and his body under her stay in frame.",
+          "negative": "prone bone, man on top, climax, cut, zoom to face only, clothes suddenly appearing, photorealistic, realistic skin texture, pores"
         },
         {
           "id": "sofa_straddle",
-          "summary_action": "{male} sits on a sofa; a woman squats in upright straddle and drops hard onto his forcefully erect penis with hip guidance.",
-          "shot1": "{male} sits nude on a sofa. A woman squats over him in upright straddle and sinks down onto his forcefully erect penis until she is fully seated. His hands grip her hips to guide her.",
-          "shot2": "She rises until only the head stays inside, then drops hard until fully seated again. His fingers dig into her hips. Her breasts bounce on each drop. Both faces show intensity.",
+          "summary_action": "Medium on sofa: he sits; she squats in upright straddle facing him and drops hard onto his forcefully erect penis. No climax.",
+          "shot1": "Medium shot of both on a sofa. {male} sits nude on the sofa. A woman squats over him in upright straddle facing him and sinks down onto his forcefully erect penis until fully seated. His hands grip her hips to guide her. No climax yet.",
+          "shot2": "Same framing. She rises until only the head stays inside, then drops hard until fully seated again. His fingers dig into her hips. Her breasts bounce on each drop. Both faces show intensity. He does not climax. Same relation: he seated, she straddling facing him, his hands on her hips.",
           "dialogue_shot1": "",
           "dialogue_shot2": "んっ…深い…あっ…",
           "overall_soundscape": "Wet penetration on each drop, hip impact, breath and soft moans. No music.",
-          "camera_lock": "Medium shot of both bodies on the sofa; hips and shaft path visible.",
-          "negative": "standing sex, reverse cowgirl only, cut, hands leaving her hips, photorealistic, realistic skin texture, pores"
+          "camera_lock": "Both bodies on the sofa; hips and shaft path visible.",
+          "negative": "standing sex, reverse cowgirl only, climax, cut, hands leaving her hips, photorealistic, realistic skin texture, pores"
         }
       ]
     },
     {
       "id": "full_nelson",
       "name": "Full Nelson",
-      "description": "Lifted full nelson; upward thrusts with gravity seating her fully between strokes.",
+      "description": "Lifted full nelson; upward thrusts; feet off ground. No climax.",
       "patterns": [
         {
           "id": "fn_lift",
-          "summary_action": "{male} holds a woman in full nelson off the ground and drives powerful upward thrusts with his forcefully erect penis; her body bounces on his cock.",
-          "shot1": "{male} lifts a woman completely off the ground in a full nelson: arms locked under her knees and behind her neck, legs forced open. He drives his hips upward, pushing his forcefully erect penis deep into her vagina from below.",
-          "shot2": "He drives powerful upward thrusts, hips pumping vigorously. Her body bounces on his cock between strokes; gravity seats her fully when he pauses. Face tight, toes curled. Same hold throughout.",
+          "summary_action": "Low angle looking up: {male} holds her in full nelson off the ground; drives powerful upward thrusts with his forcefully erect penis. No climax.",
+          "shot1": "Low angle looking up at the suspended pair. {male} stands and lifts a woman completely off the ground in a full nelson: arms locked under her knees and behind her neck, legs forced open. He drives his hips upward, pushing his forcefully erect penis deep into her vagina from below. Her feet do not touch the ground. No climax yet.",
+          "shot2": "Same low angle. He drives powerful upward thrusts, hips pumping vigorously. Her body bounces on his cock between strokes; gravity seats her fully when he pauses. Face tight, toes curled. Same full-nelson lock throughout. He does not climax. Same relation: he standing supporting her entire weight, she suspended and held open.",
           "dialogue_shot1": "",
           "dialogue_shot2": "やっ…だめ…あっ…！",
           "overall_soundscape": "Wet upward thrusts, flesh impact, strained breath and moans. No music.",
-          "camera_lock": "Low angle looking up at the suspended pair; lock of arms, open legs, and point of entry stay in frame.",
-          "negative": "feet on ground, arms released, doggy, cut, high angle only, photorealistic, realistic skin texture, pores"
+          "camera_lock": "Lock of arms, open legs, and point of entry stay in frame. Feet clearly off the ground.",
+          "negative": "feet on ground, arms released, doggy, climax, cut, high angle only, photorealistic, realistic skin texture, pores"
         }
       ]
     },
     {
       "id": "suspended_congress",
       "name": "Suspended Congress",
-      "description": "Standing face-to-face hold; legs locked; upward thrusts with ass grab.",
+      "description": "Standing face-to-face hold; legs locked; upward thrusts. No climax.",
       "patterns": [
         {
           "id": "standing_embrace",
-          "summary_action": "Standing face-to-face: woman locked around {male}; he drives vigorous upward thrusts while gripping her ass; breasts pressed to his chest.",
-          "shot1": "{male} stands holding a woman face-to-face in the air. Her legs lock tightly around his waist, arms around his neck. His hands grip her ass. He drives his hips upward, pushing his forcefully erect penis into her vagina. Bodies pressed together; breasts crushed against his chest.",
-          "shot2": "Stronger, more vigorous upward thrusts. Her fingers dig into his shoulders. One hand still grips and slightly spreads her ass. Sweat on both bodies. Her face turns with an open mouth. Same standing embrace.",
+          "summary_action": "Medium standing shot: face-to-face; she locked around him; he drives vigorous upward thrusts while gripping her ass. No climax.",
+          "shot1": "Medium shot of the standing pair face-to-face. {male} stands holding a woman in the air. Her legs lock tightly around his waist, arms around his neck. His hands grip her ass. He drives his hips upward, pushing his forcefully erect penis into her vagina. Bodies pressed together; breasts crushed against his chest. No climax yet.",
+          "shot2": "Same medium standing framing. Stronger, more vigorous upward thrusts. Her fingers dig into his shoulders. One hand still grips and slightly spreads her ass. Sweat on both bodies. Her face turns with an open mouth. Same standing embrace. He does not climax.",
           "dialogue_shot1": "",
           "dialogue_shot2": "あっ…あっ…はあっ…",
           "overall_soundscape": "Wet upward thrusts, skin slap, heavy breath and moans. No music.",
-          "camera_lock": "Medium shot of the standing pair; face-to-face, ass grip, and hip motion stay in frame.",
-          "negative": "lying down, legs unlocked, cut, camera pulling to wide empty room, photorealistic, realistic skin texture, pores"
+          "camera_lock": "Face-to-face pair, ass grip, and hip motion stay in frame.",
+          "negative": "lying down, legs unlocked, climax, cut, camera pulling to wide empty room, photorealistic, realistic skin texture, pores"
         }
       ]
     },
     {
       "id": "xray_creampie",
       "name": "X-ray / Cross-section Creampie Cum",
-      "description": "Cross-section deep vaginal penetration then creampie filling the uterus; ahegao develops.",
+      "description": "Cross-section deep penetration then creampie filling the uterus in Shot2 only; ahegao develops.",
       "patterns": [
         {
           "id": "xray_fill",
-          "summary_action": "Cross-section: {male}'s forcefully erect penis thrusts deep, then presses the cervix and floods the uterus with thick semen in multiple pulses while her face goes full ahegao.",
-          "shot1": "Anime-style cross-section / x-ray view of a woman deeply penetrated by {male}'s thick forcefully erect penis. The shaft stretches her vaginal walls. The tip approaches but does not yet press the cervix. Uterus empty of semen. A side diagram shows the penis moving with each hip thrust. Her expression gradually becomes ahegao: eyes rolling up, mouth open, tongue out, flushed skin, sweat.",
-          "shot2": "His swollen glans presses tightly against her cervix. Thick white semen erupts from the tip in three strong pulses, floods the vaginal canal, overflows into the uterus, and coats the cervical opening. The diagram shows the womb filling completely. Full ahegao: vacant upward gaze, open mouth, dripping saliva, body trembling.",
+          "summary_action": "Medium close with cross-section: thrusting without climax in Shot1; Shot2 only — glans presses cervix and three pulses flood the uterus while full ahegao.",
+          "shot1": "Medium close-up showing both external bodies and an internal cross-section cutaway in one composition. {male} is on top or between her legs. His thick forcefully erect penis stretches her vaginal walls. The tip approaches but does not yet press the cervix. Uterus empty of semen. A side diagram shows the penis moving with each hip thrust. Her expression gradually becomes ahegao: eyes rolling up, mouth open, tongue out. No climax yet — only continuous deep thrusting.",
+          "shot2": "Same composition and framing. Climax starts only now. His swollen glans presses tightly against her cervix. Thick white semen erupts from the tip in three strong pulses, floods the vaginal canal, overflows into the uterus, and coats the cervical opening. The diagram shows the womb filling completely. He holds deep through all three pulses and does not pull out until after the last pulse. Full ahegao: vacant upward gaze, open mouth, dripping saliva, body trembling.",
           "dialogue_shot1": "",
           "dialogue_shot2": "",
           "overall_soundscape": "Wet thrusting, breath, soft moans building, then heavier wet pulses on each ejaculation spurt. No music.",
-          "camera_lock": "Medium close-up showing both the external bodies and the internal cutaway in one composition. Same framing for both shots.",
-          "negative": "no cross-section, external only, empty uterus after climax, cut, style labels, photorealistic, realistic skin texture, pores"
+          "camera_lock": "External bodies and internal cutaway stay in the same composition for both shots.",
+          "negative": "no cross-section, external only, empty uterus after climax, climax in shot1, cut, style labels, photorealistic, realistic skin texture, pores"
         }
       ]
     },
     {
       "id": "breast_play",
       "name": "Breast Play",
-      "description": "Low-angle breast cupping and massage toward the camera with short Japanese dirty talk.",
+      "description": "Low-angle breast cupping and massage toward the camera.",
       "patterns": [
         {
           "id": "breast_cup_talk",
-          "summary_action": "Low-angle: a woman cups, lifts, squeezes, and shakes her bare breasts toward the lens with short lines.",
-          "shot1": "Low-angle close-up looking up at a woman's face and bare breasts. Top pulled down under her breasts. She looks at the camera and cups her breasts from underneath, lifting them toward the lens. Thumbs brush the undersides.",
-          "shot2": "She massages them, squeezing and pushing them together, then letting them drop and catching them again. She gives one or two slow lifts and a short shake while still cupping, then holds them out toward the camera.",
+          "summary_action": "Low-angle close-up: she cups, lifts, squeezes, and shakes her bare breasts toward the lens. No partner penetration.",
+          "shot1": "Tight low-angle close-up looking up at a woman's face and bare breasts. Top pulled down under her breasts. She looks at the camera and cups her breasts from underneath, lifting them toward the lens. Thumbs brush the undersides. No penis in frame.",
+          "shot2": "Same tight low close-up. She massages them, squeezing and pushing them together, then letting them drop and catching them again. She gives one or two slow lifts and a short shake while still cupping, then holds them out toward the camera. Same crop: face at top, hands and breasts mid frame, bottom cuts off at the pulled-down top.",
           "dialogue_shot1": "これ、好き？ 全部あなたのもの",
           "dialogue_shot2": "ほら…見てて。重いでしょ…",
           "overall_soundscape": "Soft skin and fabric, light moans under the lines. No music.",
-          "camera_lock": "Tight low close-up; face at top of frame, hands and breasts in mid frame, bottom cuts off at the pulled-down top — not at the crotch.",
+          "camera_lock": "Face at top of frame, hands and breasts in mid frame, bottom cuts off at the pulled-down top — not at the crotch.",
           "negative": "zoom out, full body, crotch in frame, penis, covering the breasts, pulling the top back up, cut, new room, photorealistic, realistic skin texture, pores"
         }
       ]
@@ -328,71 +327,71 @@
     {
       "id": "standing_behind",
       "name": "Standing Sex From Behind",
-      "description": "Standing rear entry with breasts pressed flat against glass.",
+      "description": "Standing rear entry; breasts pressed flat against glass. No climax.",
       "patterns": [
         {
           "id": "glass_press",
-          "summary_action": "Standing from behind: {male} drives his hips vigorously back and forth into a woman whose palms and breasts are pressed flat against glass; thrusts push her harder into the surface.",
-          "shot1": "Standing sex from behind. A woman leans forward with both palms and breasts pressed flat against a glass surface. {male} holds her hips and drives his hips forward, pushing his forcefully erect penis into her vagina. Water droplets on the glass.",
-          "shot2": "More forceful, vigorous thrusts push her harder against the glass. Breasts flatten further. Mouth open against the surface. Condensation increases. Same standing hold and glass contact.",
+          "summary_action": "Front three-quarter through glass: she leans on glass; {male} behind her drives vigorous thrusts; breasts flatten harder on each stroke. No climax.",
+          "shot1": "Front three-quarter through or along a glass surface. A woman leans forward with both palms and breasts pressed flat against the glass. {male} stands directly behind her, both hands on her hips, and drives his hips forward, pushing his forcefully erect penis into her vagina. Water droplets on the glass. No climax yet.",
+          "shot2": "Same front three-quarter framing. More forceful, vigorous thrusts push her harder against the glass. Breasts flatten further. Mouth open against the surface. Condensation increases. Same standing hold: he behind, she against glass, hands on the glass. He does not climax.",
           "dialogue_shot1": "",
           "dialogue_shot2": "んっ…あっ…冷たい…",
           "overall_soundscape": "Wet thrusting, flesh against glass, breath and moans. No music.",
-          "camera_lock": "Front three-quarter through or along the glass; compressed breasts and his thrusting hips stay in frame.",
-          "negative": "lying pose, hands off the glass, cut, clean dry glass with no contact, new location, photorealistic, realistic skin texture, pores"
+          "camera_lock": "Compressed breasts and his thrusting hips stay in frame. Glass contact remains.",
+          "negative": "lying pose, hands off the glass, climax, cut, clean dry glass with no contact, new location, photorealistic, realistic skin texture, pores"
         }
       ]
     },
     {
       "id": "library_selfie_doggy",
       "name": "Library Selfie Doggy",
-      "description": "Selfie while being fucked from behind in library stacks; bystander appears; she reacts.",
+      "description": "Selfie while fucked from behind in library; bystander appears in Shot2. No climax.",
       "patterns": [
         {
           "id": "selfie_interrupt",
-          "summary_action": "Woman records herself while {male} drives his hips vigorously back and forth from behind in a library aisle; a bystander appears; she glances then says a short oops.",
-          "shot1": "A woman holds a camera in one hand, looking back at the lens. {male} is behind her with both hands on her waist, driving his hips vigorously back and forth. His forcefully erect penis is visible sliding in and out under her flipped-up skirt. Thong pulled aside. Her face stays animated: blinks, mouth opens and closes with soft moans, expression changes beat to beat.",
-          "shot2": "A fully clothed man appears at the far end of the aisle, drops a book, freezes staring. She quickly turns her head toward him, eyes widening. Then she turns back to the camera with a short reaction. His hands stay on her waist; penetration continues; shaft stays visible.",
+          "summary_action": "Handheld selfie: she holds the camera; {male} behind her with hands on her waist thrusting; Shot2 a bystander appears; she reacts. No climax.",
+          "shot1": "Handheld selfie angle. A woman holds a camera in one hand, looking back at the lens. {male} stands behind her with both hands on her waist, driving his hips vigorously forward and back. His forcefully erect penis is visible sliding in and out under her flipped-up skirt. Thong pulled aside. Her face stays animated: blinks, mouth opens and closes with soft moans. One hand never leaves the camera. No climax yet.",
+          "shot2": "Same selfie framing and spatial relation. A fully clothed man appears at the far end of the aisle, drops a book, freezes staring. She quickly turns her head toward him, eyes widening. Then she turns back to the camera with a short reaction. His hands stay on her waist; penetration continues; shaft stays visible under the skirt. He does not climax.",
           "dialogue_shot1": "",
           "dialogue_shot2": "あっ…やば…",
           "overall_soundscape": "Soft moans during thrusts, cloth and skin contact, book hitting the floor, short reaction and soft giggle. No other speech. No music.",
-          "camera_lock": "Handheld selfie; one hand never leaves the camera. His jaw may stay at frame edge. Penis stays visible under the skirt. No cut.",
-          "negative": "hands switching the phone, penis hidden by skirt, cut, bystander walking closer, long speech, photorealistic, realistic skin texture, pores"
+          "camera_lock": "Handheld selfie; one hand never leaves the camera. Penis stays visible under the skirt. No cut.",
+          "negative": "hands switching the phone, penis hidden by skirt, climax, cut, bystander walking closer, long speech, photorealistic, realistic skin texture, pores"
         }
       ]
     },
     {
       "id": "hair_pull_prone",
       "name": "Hair-Pull Prone Bone",
-      "description": "Face-down; braid yanked; relentless thrusts drive her body forward.",
+      "description": "Face-down; hair yanked; relentless thrusts. No climax.",
       "patterns": [
         {
           "id": "braid_yank",
-          "summary_action": "Woman face-down; {male} yanks her braid and drives heavy vigorous thrusts that rock her body forward; ass ripples each impact.",
-          "shot1": "POV looking down at a woman face-down. A fist grips her long hair hard. Clothing yanked up over her ass. Thick forcefully erect penis already buried deep inside her.",
-          "shot2": "The hand yanks her hair back sharply, forcing her upper body to arch. Hips slam forward with heavy relentless vigorous thrusts that rock her entire body. Each impact makes her ass ripple. She tries to brace on the ground but is driven forward with every stroke. Pace stays hard; no slowdown.",
+          "summary_action": "POV looking down: she face-down; {male} behind/on top yanks her hair and drives heavy thrusts that rock her body forward. No climax.",
+          "shot1": "POV looking down along her back. A woman lies face-down. {male} is over and behind her. A fist grips her long hair hard. Clothing yanked up over her ass. His thick forcefully erect penis is already buried deep inside her from behind. No climax yet.",
+          "shot2": "Same POV looking down. The hand yanks her hair back sharply, forcing her upper body to arch. Hips slam forward with heavy relentless vigorous thrusts that rock her entire body forward. Each impact makes her ass ripple. She tries to brace on the ground but is driven forward with every stroke. Pace stays hard; no slowdown. He does not climax. Same relation: he over her from behind, fist in her hair.",
           "dialogue_shot1": "",
           "dialogue_shot2": "あっ…！ やっ…だめ…",
           "overall_soundscape": "Loud wet skin-on-skin slap every thrust, sharp gasps turning into choked moans as the hair-pull tightens, male heavy breathing and low grunts, wet squelch of deep penetration. No music.",
-          "camera_lock": "POV looking down; fist in hair, arched upper body, and hip impact stay in frame.",
-          "negative": "gentle pace, hair released, standing pose, cut, soft romantic tone, photorealistic, realistic skin texture, pores"
+          "camera_lock": "Fist in hair, arched upper body, and hip impact stay in frame.",
+          "negative": "gentle pace, hair released, standing pose, climax, cut, soft romantic tone, photorealistic, realistic skin texture, pores"
         }
       ]
     },
     {
       "id": "spread_fingering",
       "name": "Spread / Fingering",
-      "description": "Hands pull labia open; optional deeper fingering with visible wetness.",
+      "description": "Hands pull labia open; string of fluid between folds.",
       "patterns": [
         {
           "id": "spread_open",
-          "summary_action": "A woman spreads her legs and pulls her labia open to show the entrance; then pulls farther with a string of fluid between the folds.",
-          "shot1": "A woman with legs spread wide uses both hands to pull her outer labia open, clearly exposing the inner folds and entrance. Slight wetness visible.",
-          "shot2": "Fingers pull the labia farther apart. More of the inner vagina visible. A thin string of fluid connects the folds.",
+          "summary_action": "Medium on her open legs: she pulls her labia open with both hands; then farther with a fluid string between folds. No penis.",
+          "shot1": "Medium shot focused on her open legs and hands. A woman with legs spread wide uses both hands to pull her outer labia open, clearly exposing the inner folds and entrance. Slight wetness visible. No penis in frame.",
+          "shot2": "Same medium framing. Fingers pull the labia farther apart. More of the inner vagina visible. A thin string of fluid connects the folds. Legs stay spread. No penis.",
           "dialogue_shot1": "",
           "dialogue_shot2": "",
           "overall_soundscape": "Quiet room, soft breath. No music.",
-          "camera_lock": "Medium shot focused on the spread hands and exposed entrance.",
+          "camera_lock": "Spread hands and exposed entrance stay in frame.",
           "negative": "penis in frame, closed legs, cut, face-only crop, photorealistic, realistic skin texture, pores"
         }
       ]
@@ -400,17 +399,17 @@
     {
       "id": "after_creampie",
       "name": "After Creampie Cum",
-      "description": "After sex; thick cum leaks from the used pussy onto belly, thighs, and sheets.",
+      "description": "After sex; thick cum already leaking — result state, not active climax.",
       "patterns": [
         {
           "id": "leak_lie",
-          "summary_action": "A woman lies on her back after sex; thick cum slowly oozes and leaks from her used pussy across belly and thighs and pools on the sheets.",
-          "shot1": "A woman lies on her back on disheveled sheets. Thick white cum leaks from her used pussy and is smeared across her lower belly, breasts, and inner thighs. Empty half-lidded eyes.",
-          "shot2": "A larger amount of thick cum slowly oozes from her pussy in a continuous thick stream and pools on the sheets between her slightly shifted legs. One knee bent higher. Vacant expression unchanged.",
+          "summary_action": "Medium on torso and hips: she lies on her back after sex; thick cum already leaking from her used pussy; more oozes and pools in Shot2. No active thrusting.",
+          "shot1": "Medium shot on torso and hips. A woman lies on her back on disheveled sheets. Thick white cum already leaks from her used pussy and is smeared across her lower belly, breasts, and inner thighs. Empty half-lidded eyes. No active thrusting. Climax has already happened before this clip.",
+          "shot2": "Same medium framing. A larger amount of thick cum slowly oozes from her pussy in a continuous thick stream and pools on the sheets between her slightly shifted legs. One knee bent higher. Vacant expression unchanged. Still no thrusting — only the slow leak after climax.",
           "dialogue_shot1": "",
           "dialogue_shot2": "",
           "overall_soundscape": "Quiet room, soft breath, faint wet drip and soft wet flow. No music.",
-          "camera_lock": "Medium shot on torso and hips; leaking pussy and pooled cum stay visible.",
+          "camera_lock": "Leaking pussy and pooled cum stay visible on torso and hips.",
           "negative": "active thrusting, clean dry skin, sitting up, cut, new location, photorealistic, realistic skin texture, pores"
         }
       ]
@@ -418,36 +417,36 @@
     {
       "id": "oral_creampie_cum",
       "name": "Oral Creampie Cum",
-      "description": "Deep throat hold then oral creampie; she keeps the penis deep for several seconds, then shows the mouth full of cum.",
+      "description": "Deep throat hold; climax only while fully buried; then pull-off and show mouth full of cum.",
       "patterns": [
         {
           "id": "deep_hold_show",
-          "summary_action": "{male} drives his forcefully erect penis deep into a woman's throat and holds still while cumming in multiple thick pulses; she then pulls off and opens her mouth to show the accumulated semen.",
-          "shot1": "A woman kneels. {male} grips her head with both hands and drives his hips forward, pushing his forcefully erect penis the full length into her throat until her nose presses against his body. Lips sealed tight.",
-          "shot2": "He holds completely still with the shaft buried deep. Thick white cum pulses from the tip in three strong jets, filling her mouth and throat. After the last pulse she slowly pulls off; a thick string of cum stretches from the glans to her lips. She opens her mouth wide toward the camera, showing the pool of white semen on her tongue and inside her cheeks. Some drips from the corner of her lips.",
+          "summary_action": "Medium low angle: he drives full throat then holds still; climax only while buried in three pulses; she pulls off after the last pulse and shows the cum in her mouth.",
+          "shot1": "Medium low angle on her face, his hands, and the shaft path. A woman kneels facing {male}'s hips. He grips her head with both hands and drives his hips forward, pushing his forcefully erect penis the full length into her throat until her nose presses against his body. Lips sealed tight. No climax yet — only the deep bury and hold setup.",
+          "shot2": "Same angle. He holds completely still with the shaft buried deep. Climax starts only now: thick white cum pulses from the tip in three strong jets, filling her mouth and throat while he stays fully buried. After the last pulse she slowly pulls off; a thick string of cum stretches from the glans to her lips. She opens her mouth wide toward the camera, showing the pool of white semen on her tongue and inside her cheeks. Some drips from the corner of her lips.",
           "dialogue_shot1": "奥まで…そのまま…",
           "dialogue_shot2": "んっ…見て…溜まったよ…",
           "overall_soundscape": "Wet full-throat seal, muffled swallow sounds, three distinct wet pulses of ejaculation, soft wet plop on pull-off, quiet breath. No music.",
-          "camera_lock": "Medium low angle on her face, his hands, and the shaft path. After pull-off the open mouth stays centered.",
-          "negative": "shallow tip-only, pull-off before cum, no mouth show, cut, zoom out to full body, photorealistic, realistic skin texture, pores"
+          "camera_lock": "Her face, his hands, and the shaft path stay in frame. After pull-off the open mouth stays centered.",
+          "negative": "shallow tip-only, pull-off before cum, climax while pulled out, no mouth show, cut, zoom out to full body, photorealistic, realistic skin texture, pores"
         }
       ]
     },
     {
       "id": "facial_cum",
       "name": "Facial Cum",
-      "description": "Pull-off from oral or hand, then multiple thick ropes land on face, cheeks, lips, and tongue.",
+      "description": "Pull-off from oral; climax only after pull-off; multiple ropes land on face.",
       "patterns": [
         {
           "id": "pull_off_face",
-          "summary_action": "Woman pulls her mouth off {male}'s forcefully erect penis; he then shoots multiple thick ropes of cum onto her face, cheeks, lips, and open tongue at short intervals.",
-          "shot1": "A woman on her knees has {male}'s forcefully erect penis deep in her mouth. She looks up. He holds her head lightly.",
-          "shot2": "She pulls off completely; the penis plops free with a wet sound. He strokes the shaft once or twice. First thick white rope shoots across her cheek and nose. Second rope lands on her lips and open tongue. Third pulse splatters her forehead and other cheek. Cum drips slowly down her face. She keeps her mouth open and tongue out.",
+          "summary_action": "Close medium on her face: oral in Shot1 without climax; Shot2 she pulls off, then three ropes land on cheek, lips, tongue, forehead.",
+          "shot1": "Close medium on her face and the shaft tip. A woman on her knees has {male}'s forcefully erect penis deep in her mouth. She looks up. He holds her head lightly. Continuous oral motion only. No climax yet.",
+          "shot2": "Same close medium on her face. She pulls off completely; the penis plops free with a wet sound. Climax starts only after the pull-off. He strokes the shaft once or twice. First thick white rope shoots across her cheek and nose. Second rope lands on her lips and open tongue. Third pulse splatters her forehead and other cheek. Cum drips slowly down her face. She keeps her mouth open and tongue out. He stays in front of her face through all three pulses.",
           "dialogue_shot1": "",
           "dialogue_shot2": "んっ…顔に…たくさん…",
           "overall_soundscape": "Wet plop on pull-off, short hand stroke, three distinct wet spurts of cum landing, soft drip, breath. No music.",
-          "camera_lock": "Close medium on her face and the shaft tip. Cum landing sites stay in frame.",
-          "negative": "oral creampie, no facial, single small bead, cut, zoom away from face, photorealistic, realistic skin texture, pores"
+          "camera_lock": "Her face and the shaft tip stay in frame. Cum landing sites remain visible.",
+          "negative": "oral creampie, climax while still in mouth, no facial, single small bead, cut, zoom away from face, photorealistic, realistic skin texture, pores"
         }
       ]
     }
